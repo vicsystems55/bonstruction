@@ -149,8 +149,8 @@
             <div class="slider-pagination"></div>
         </div>
         <div class="hero-social-link">
-            <div class="social-wrap"><a href="https://facebook.com/">FACEBOOK</a> <a
-                    href="https://instagram.com/">INSTAGRAM</a> <a href="https://twitter.com/">TWITTER</a></div>
+            <div class="social-wrap"><a href="https://facebook.com/bonstructionltd">FACEBOOK</a> <a
+                    href="https://instagram.com/bonstructionltd">INSTAGRAM</a> <a href="https://twitter.com/bonstructionltd">TWITTER</a></div>
         </div>
         <div class="scroll-down"><a href="#about-sec" class="hero-scroll-wrap"><i
                     class="fal fa-long-arrow-left"></i>Scroll</a></div>

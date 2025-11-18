@@ -1,7 +1,7 @@
 <div class="th-menu-wrapper onepage-nav">
     <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-        <div class="mobile-logo"><a href="{{ route('home') }}"><img src="{{ asset('assets/img/logo-white.svg') }}" alt="Bonstruction"></a></div>
+        <div class="mobile-logo"><a href="{{ route('home') }}"><img src="{{ asset('assets/img/logo-white.png') }}" alt="Bonstruction"></a></div>
         <div class="th-mobile-menu allow-natural-scroll">
             <ul>
                 <li><a href="{{ route('home') }}">Home</a></li>
