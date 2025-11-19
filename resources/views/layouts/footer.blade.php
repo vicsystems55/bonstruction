@@ -6,7 +6,7 @@
                         <div class="col-md-6 col-xl-4">
                             <div class="widget footer-widget">
                                 <div class="th-widget-about">
-                                    <div class="about-logo"><a href="index.html"><img src="assets/img/logo-black.png"
+                                    <div class="about-logo"><a href="index.html"><img src="assets/img/logo-blac.png"
                                                 alt="Builda"></a></div>
                                     <p class="about-text">
                                         Bonstruction Engineering delivers reliable, safe, and innovative construction and project management solutions across Nigeria.

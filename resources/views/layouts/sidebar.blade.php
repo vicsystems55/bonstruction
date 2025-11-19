@@ -4,7 +4,7 @@
 
         <div class="widget">
             <div class="th-widget-about">
-                <div class="about-logo"><a href="{{ route('home') }}"><img src="{{ asset('assets/img/logo-black.png') }}" alt="Bonstruction"></a></div>
+                <div class="about-logo"><a href="{{ route('home') }}"><img src="{{ asset('assets/img/logo-blac.png') }}" alt="Bonstruction"></a></div>
                 <p class="about-text">Bonstruction Engineering — a reliable Nigerian contractor established in 2021. We deliver safe, quality construction and project management services with an "I Am Assured" delivery philosophy.</p>
             </div>
         </div>

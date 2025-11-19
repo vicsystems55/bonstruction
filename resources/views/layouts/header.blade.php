@@ -5,7 +5,7 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-auto">
                         <div class="header-logo">
-                            <a href="{{ route('home') }}"><img src="{{ asset('assets/img/logo-white.png') }}" alt="Bonstruction"></a>
+                            <a href="{{ route('home') }}"><img src="{{ asset('assets/img/logo-whit.png') }}" alt="Bonstruction"></a>
                         </div>
                     </div>
                     <div class="col-auto">

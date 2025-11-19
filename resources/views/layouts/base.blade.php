@@ -46,7 +46,7 @@
     <div class="preloader">
         {{-- <button class="th-btn preloaderCls">Cancel Preloader</button> --}}
         <div class="preloader-inner">
-            <div class="mb-4"><img src="assets/img/logo-real.png" alt="img"></div><span class="loader"> <span
+            <div class="mb-4"><img src="assets/img/logo-rea.png" alt="img"></div><span class="loader"> <span
                     class="loading-text"></span></span>
         </div>
     </div>
