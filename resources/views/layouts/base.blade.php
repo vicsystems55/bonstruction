@@ -46,7 +46,7 @@
     <div class="preloader">
         {{-- <button class="th-btn preloaderCls">Cancel Preloader</button> --}}
         <div class="preloader-inner">
-            <div class="mb-4"><img src="assets/img/logo-rea.png" alt="img"></div><span class="loader"> <span
+            <div class="mb-4"><img src="assets/img/normal/about_1_3.png" alt="img"></div><span class="loader"> <span
                     class="loading-text"></span></span>
         </div>
     </div>
@@ -247,7 +247,7 @@
                         </div>
                         <div class="box-content">
                             <h3 class="box-title"><a href="service-details">Main Contracting</a></h3>
-                            <p class="box-text">Serving as main contractor for small to medium scale building and
+                            <p class="box-text">Serving as main contractor for turnkey and heavy duty scale projects and
                                 engineering projects with comprehensive oversight from planning to completion.</p>
                         </div>
                     </div>
@@ -564,32 +564,32 @@
                         class="play-btn style3 popup-video"><i class="fa-sharp fa-solid fa-play"></i></a></div>
                 <div class="video-wrap-details">
                     <div class="title-area mb-45">
-                        <h2 class="sec-title">Why Choose Us For Bonstruction Construction</h2>
+                        <h2 class="sec-title">Why Choose Bonstruction</h2>
                         <p class="sec-text">Classic construction refers to building techniques, designs, and materials
                             that emphasize durability, elegance, and traditional craftsmanship.</p>
                     </div>
                     <div class="row gy-4">
                         <div class="col-sm-6">
                             <div class="why-info-card">
-                                <div class="box-icon"><img src="assets/img/icon/checkmark2.svg" alt="img"></div>
+                                <div class="box-icon"><img src="assets/img/icon/checkmark2.png" alt="img"></div>
                                 <h4 class="box-title">Quality Control System</h4>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="why-info-card">
-                                <div class="box-icon"><img src="assets/img/icon/checkmark2.svg" alt="img"></div>
+                                <div class="box-icon"><img src="assets/img/icon/checkmark2.png" alt="img"></div>
                                 <h4 class="box-title">100% Satisfaction Guarantee</h4>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="why-info-card">
-                                <div class="box-icon"><img src="assets/img/icon/checkmark2.svg" alt="img"></div>
+                                <div class="box-icon"><img src="assets/img/icon/checkmark2.png" alt="img"></div>
                                 <h4 class="box-title">Highly Professional Staff</h4>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="why-info-card">
-                                <div class="box-icon"><img src="assets/img/icon/checkmark2.svg" alt="img"></div>
+                                <div class="box-icon"><img src="assets/img/icon/checkmark2.png" alt="img"></div>
                                 <h4 class="box-title">Accurate Testing Processes</h4>
                             </div>
                         </div>
@@ -764,7 +764,7 @@
                 </div>
                 <div class="col-xl-6">
                     <div class="title-area"><span class="shadow-title">CONSULTING</span>
-                        <h2 class="sec-title text-white">Have An Upcoming Projects? Let’s Talk to Now!</h2>
+                        <h2 class="sec-title text-white">Have An Upcoming Projects? Let’s Talk!</h2>
                         <p class="sec-text text-white"> </p>
                     </div>
                     <div class="btn-wrap"><a href="/contact" class="th-btn btn-mask th-btn-icon">Contact Us</a>
