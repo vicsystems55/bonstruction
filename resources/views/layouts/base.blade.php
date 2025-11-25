@@ -160,7 +160,7 @@
             <div class="counter-card-wrap space">
                 <div class="counter-card">
                     <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">50</span>+</h2>
+                        <h2 class="box-number"><span class="counter-number">20</span>+</h2>
                         <p class="box-text">PROJECTS COMPLETED</p>
                     </div>
                 </div>
@@ -176,12 +176,7 @@
                         <p class="box-text">YEARS EXPERIENCE</p>
                     </div>
                 </div>
-                <div class="counter-card">
-                    <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">0</span></h2>
-                        <p class="box-text">MAJOR INCIDENTS</p>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
