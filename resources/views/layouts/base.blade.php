@@ -405,8 +405,7 @@
                     <div class="property-card-details"><span class="property-card-subtitle">Main Contracting</span>
                         <h4 class="property-card-title"><a href="service-details">Small to Medium Scale Projects</a>
                         </h4>
-                        <p class="property-card-text">Serving as main contractor for building and engineering projects
-                            with comprehensive supervision from planning to completion. We ensure quality control at every
+                        <p class="property-card-text">Serving as a main contractor for Civil Engineering & Building Construction, Renewable Solar Energy & Rural Electrification, Borehole & Water Mgt, Hydropower & Dam, Erosion & Flood Control, Property Development, Commissioning, Procurement. We ensure quality control at every
                             stage while adhering to strict timeline and budget planning.</p>
                         <div class="property-btn-wrap"><a href="service-details"
                                 class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
@@ -559,7 +558,7 @@
                         class="play-btn style3 popup-video"><i class="fa-sharp fa-solid fa-play"></i></a></div>
                 <div class="video-wrap-details">
                     <div class="title-area mb-45">
-                        <h2 class="sec-title">Why Choose Bonstruction</h2>
+                        <h2 class="sec-title">Why Choose Us</h2>
                         <p class="sec-text">Classic construction refers to building techniques, designs, and materials
                             that emphasize durability, elegance, and traditional craftsmanship.</p>
                     </div>
