@@ -308,7 +308,7 @@
                                             <div class="portfolio-img img-shine"
                                                 data-mask-src="assets/img/shape/project-card1-img-mask.png"
                                                 data-bs-toggle="modal" data-bs-target="#portfolioModal"><img
-                                                    src="assets/img/project/project_1_1.png" alt="project image">
+                                                    src="assets/img/project/project_11.png" alt="project image">
                                                 <div class="portfolio-card-shape"
                                                     data-mask-src="assets/img/shape/project-card1-img-mask.png"><img
                                                         src="assets/img/project/project_shape1_1.png" alt="img">
@@ -398,7 +398,7 @@
             </div>
             <div class="property-card-wrap">
                 <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                    <img src="assets/img/property/property1-1.png" alt="Main Contracting">
+                    <img src="assets/img/property/property11.png" alt="Main Contracting">
                 </div>
                 <div class="property-card">
                     <div class="property-card-number">01</div>
@@ -415,7 +415,7 @@
             </div>
             <div class="property-card-wrap">
                 <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                    <img src="assets/img/property/property1-2.png" alt="Project Management">
+                    <img src="assets/img/property/property12.png" alt="Project Management">
                 </div>
                 <div class="property-card">
                     <div class="property-card-number">02</div>
@@ -432,7 +432,7 @@
             </div>
             <div class="property-card-wrap">
                 <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                    <img src="assets/img/property/property1-3.png" alt="Engineering Solutions">
+                    <img src="assets/img/property/property13.png" alt="Engineering Solutions">
                 </div>
                 <div class="property-card">
                     <div class="property-card-number">03</div>
