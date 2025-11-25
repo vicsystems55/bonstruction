@@ -407,7 +407,7 @@
                         </h4>
                         <p class="property-card-text">Serving as main contractor for building and engineering projects
                             with comprehensive supervision from planning to completion. We ensure quality control at every
-                            stage while adhering to strict timelines and budget constraints.</p>
+                            stage while adhering to strict timeline and budget planning.</p>
                         <div class="property-btn-wrap"><a href="service-details"
                                 class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
                     </div>
