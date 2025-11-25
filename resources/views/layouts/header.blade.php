@@ -13,26 +13,32 @@
                             <ul>
                                 <li><a href="{{ route('home') }}">Home</a></li>
                                 <li><a href="{{ route('about') }}">About Us</a></li>
-                                <li><a href="{{ route('services') }}">Services</a></li>
-                                <li><a href="{{ route('projects') }}">Projects</a></li>
-                                <li><a href="{{ route('blog') }}">Blog</a></li>
-                                <li><a href="{{ route('contact') }}">Contact Us</a></li>
                                 <li class="menu-item-has-children">
                                 <a href="#">
-                                    Main Menu</a>
+                                    Company</a>
                                 <ul class="sub-menu">
                                     <li>
                                         <a href="#">
-                                            Sub menu 1</a>
+                                            About Us</a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            Sub menu 2</a>
+                                            Vision & Mission</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="#">
+                                            Board of Directors</a>
                                     </li>
 
 
                                 </ul>
                             </li>
+                                <li><a href="{{ route('services') }}">Services</a></li>
+                                <li><a href="{{ route('projects') }}">Projects</a></li>
+                                <li><a href="{{ route('blog') }}">Blog</a></li>
+                                <li><a href="{{ route('contact') }}">Contact Us</a></li>
+
                             </ul>
                         </nav>
                         <div class="header-button d-flex d-lg-none">

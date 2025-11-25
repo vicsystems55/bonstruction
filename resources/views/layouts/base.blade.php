@@ -46,8 +46,8 @@
     <div class="preloader">
         {{-- <button class="th-btn preloaderCls">Cancel Preloader</button> --}}
         <div class="preloader-inner">
-            <div class="mb-4"><img src="assets/img/normal/about_1_3.png" alt="img"></div><span class="loader"> <span
-                    class="loading-text"></span></span>
+            <div class="mb-4"><img src="assets/img/normal/about_1_3.png" alt="img"></div><span class="loader">
+                <span class="loading-text"></span></span>
         </div>
     </div>
     @include('layouts.mobile-menue')
@@ -150,7 +150,8 @@
         </div>
         <div class="hero-social-link">
             <div class="social-wrap"><a href="https://facebook.com/bonstructionltd">FACEBOOK</a> <a
-                    href="https://instagram.com/bonstructionltd">INSTAGRAM</a> <a href="https://twitter.com/bonstructionltd">TWITTER</a></div>
+                    href="https://instagram.com/bonstructionltd">INSTAGRAM</a> <a
+                    href="https://twitter.com/bonstructionltd">TWITTER</a></div>
         </div>
         <div class="scroll-down"><a href="#about-sec" class="hero-scroll-wrap"><i
                     class="fal fa-long-arrow-left"></i>Scroll</a></div>
@@ -242,7 +243,8 @@
                         </div>
                         <div class="box-content">
                             <h3 class="box-title"><a href="service-details">Main Contracting</a></h3>
-                            <p class="box-text">Serving as main contractor for turnkey and heavy duty scale projects and
+                            <p class="box-text">Serving as main contractor for turnkey and heavy duty scale projects
+                                and
                                 engineering projects with comprehensive supervision from planning to completion.</p>
                         </div>
                     </div>
@@ -405,7 +407,10 @@
                     <div class="property-card-details"><span class="property-card-subtitle">Main Contracting</span>
                         <h4 class="property-card-title"><a href="service-details">Small to Medium Scale Projects</a>
                         </h4>
-                        <p class="property-card-text">Serving as a main contractor for Civil Engineering & Building Construction, Renewable Solar Energy & Rural Electrification, Borehole & Water Mgt, Hydropower & Dam, Erosion & Flood Control, Property Development, Commissioning, Procurement and Oil & Gas. We ensure quality control at every
+                        <p class="property-card-text">Serving as a main contractor for Civil Engineering & Building
+                            Construction, Renewable Solar Energy & Rural Electrification, Borehole & Water Mgt,
+                            Hydropower & Dam, Erosion & Flood Control, Property Development, Commissioning, Procurement
+                            and Oil & Gas. We ensure quality control at every
                             stage while adhering to strict timeline and budget planning.</p>
                         <div class="property-btn-wrap"><a href="service-details"
                                 class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
@@ -874,8 +879,81 @@
                     </div>
                 </div>
             </div>
+            <div class="client-area-4 space-top pb-5">
+                <div class="container">
+                     <div class="title-area"><span class="shadow-title style2">Relationships</span>
+                        <h2 class="sec-title">Our Partners</h2>
+                    </div>
+                    <div class="swiper th-slider has-shadow" id="clientSlider1"
+                        data-slider-options='{"breakpoints":{"0":{"slidesPerView":2},"576":{"slidesPerView":"3"},"768":{"slidesPerView":"4"},"992":{"slidesPerView":"5"},"1200":{"slidesPerView":"6"}}}'>
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_1.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_2.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_3.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_4.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_5.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_6.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_1.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_2.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_3.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_4.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_5.svg" alt="Image">
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand_4_6.svg" alt="Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
+
     <section class="download-area-1 space-top overflow-hidden d-none" data-bg-src="assets/img/bg/download-bg-1-1.png"
         data-opacity="5" data-overlay="title">
         <div class="container">
@@ -900,7 +978,7 @@
             </div>
         </div>
     </section>
-<section class="space bg-black2 d-non" id="blog-sec">
+    <section class="space bg-black2 d-non" id="blog-sec">
         <div class="container">
             <div class="row justify-content-between align-items-center">
                 <div class="col-xl-5 col-lg-7">
@@ -916,12 +994,15 @@
             </div>
             <div class="blog-grid">
                 <div class="blog-img img-shine" data-mask-src="assets/img/shape/blog-card1-img-mask.png"><a
-                        href="blog-details"><img src="assets/img/blog/blog_1_1.jpg" alt="Quality Assurance Process"></a>
+                        href="blog-details"><img src="assets/img/blog/blog_1_1.jpg"
+                            alt="Quality Assurance Process"></a>
                 </div>
                 <div class="blog-content"><span class="subtitle">Quality Assurance</span>
-                    <h3 class="box-title"><a href="blog-details">Our 3-Stage Quality Control Process for Construction Excellence</a>
+                    <h3 class="box-title"><a href="blog-details">Our 3-Stage Quality Control Process for Construction
+                            Excellence</a>
                     </h3>
-                    <p class="blog-text">Learn how our rigorous quality assurance system ensures all materials and workmanship meet international standards across every project phase.</p>
+                    <p class="blog-text">Learn how our rigorous quality assurance system ensures all materials and
+                        workmanship meet international standards across every project phase.</p>
                     <div class="blog-bottom-wrap">
                         <div class="blog-author-wrap">
                             <div class="avatar"><img src="assets/img/blog/avatar_1.png" alt=""></div><a
@@ -937,8 +1018,10 @@
                         href="blog-details"><img src="assets/img/blog/blog_1_2.jpg" alt="HSE Standards"></a>
                 </div>
                 <div class="blog-content"><span class="subtitle">Safety & Environment</span>
-                    <h3 class="box-title"><a href="blog-details">Achieving Zero Incidents: Our HSE Commitment in High-Risk Operations</a></h3>
-                    <p class="blog-text">Discover how our comprehensive Health, Safety and Environment protocols protect our workforce and communities in oil and gas projects.</p>
+                    <h3 class="box-title"><a href="blog-details">Achieving Zero Incidents: Our HSE Commitment in
+                            High-Risk Operations</a></h3>
+                    <p class="blog-text">Discover how our comprehensive Health, Safety and Environment protocols
+                        protect our workforce and communities in oil and gas projects.</p>
                     <div class="blog-bottom-wrap">
                         <div class="blog-author-wrap">
                             <div class="avatar"><img src="assets/img/blog/avatar_2.png" alt=""></div><a
@@ -951,7 +1034,8 @@
             </div>
         </div>
     </section>
-    <div class="d-none th-modal modal fade allow-natural-scroll" id="portfolioModa" tabindex="-1" aria-hidden="true">
+    <div class="d-none th-modal modal fade allow-natural-scroll" id="portfolioModa" tabindex="-1"
+        aria-hidden="true">
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container"><button type="button" class="icon-btn btn-close" data-bs-dismiss="modal"
@@ -1025,7 +1109,8 @@
             </div>
         </div>
     </div>
-    <div class="d-none th-modal modal fade allow-natural-scroll" id="portfolioModa" tabindex="-1" aria-hidden="true">
+    <div class="d-none th-modal modal fade allow-natural-scroll" id="portfolioModa" tabindex="-1"
+        aria-hidden="true">
         <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="container"><button type="button" class="icon-btn btn-close bg-title-dark"
