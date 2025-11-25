@@ -17,6 +17,22 @@
                                 <li><a href="{{ route('projects') }}">Projects</a></li>
                                 <li><a href="{{ route('blog') }}">Blog</a></li>
                                 <li><a href="{{ route('contact') }}">Contact Us</a></li>
+                                <li class="menu-item-has-children">
+                                <a href="#">
+                                    Main Menu</a>
+                                <ul class="sub-menu">
+                                    <li>
+                                        <a href="#">
+                                            Sub menu 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            Sub menu 2</a>
+                                    </li>
+
+
+                                </ul>
+                            </li>
                             </ul>
                         </nav>
                         <div class="header-button d-flex d-lg-none">
@@ -24,7 +40,7 @@
                         </div>
                     </div>
                     <div class="col-auto d-none d-xl-block">
-                        <div class="header-button"><a href="{{ route('contact') }}" class="th-btn btn-mask th-btn-icon">Contact Us</a> <button type="button" class="simple-icon sideMenuInfo sidebar-btn"><span class="line"></span> <span class="line"></span> <span class="line"></span></button></div>
+                        <div class="header-button"><a href="{{ route('contact') }}" class="th-btn btn-mask th-btn-icon">Download Profile</a> <button type="button" class="simple-icon sideMenuInfo sidebar-btn"><span class="line"></span> <span class="line"></span> <span class="line"></span></button></div>
                     </div>
                 </div>
             </div>
