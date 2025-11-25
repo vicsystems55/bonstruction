@@ -405,7 +405,7 @@
                     <div class="property-card-details"><span class="property-card-subtitle">Main Contracting</span>
                         <h4 class="property-card-title"><a href="service-details">Small to Medium Scale Projects</a>
                         </h4>
-                        <p class="property-card-text">Serving as a main contractor for Civil Engineering & Building Construction, Renewable Solar Energy & Rural Electrification, Borehole & Water Mgt, Hydropower & Dam, Erosion & Flood Control, Property Development, Commissioning, Procurement. We ensure quality control at every
+                        <p class="property-card-text">Serving as a main contractor for Civil Engineering & Building Construction, Renewable Solar Energy & Rural Electrification, Borehole & Water Mgt, Hydropower & Dam, Erosion & Flood Control, Property Development, Commissioning, Procurement and Oil & Gas. We ensure quality control at every
                             stage while adhering to strict timeline and budget planning.</p>
                         <div class="property-btn-wrap"><a href="service-details"
                                 class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
