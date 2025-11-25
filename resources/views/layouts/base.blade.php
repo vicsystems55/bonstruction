@@ -243,7 +243,7 @@
                         <div class="box-content">
                             <h3 class="box-title"><a href="service-details">Main Contracting</a></h3>
                             <p class="box-text">Serving as main contractor for turnkey and heavy duty scale projects and
-                                engineering projects with comprehensive oversight from planning to completion.</p>
+                                engineering projects with comprehensive supervision from planning to completion.</p>
                         </div>
                     </div>
                 </div>
@@ -406,7 +406,7 @@
                         <h4 class="property-card-title"><a href="service-details">Small to Medium Scale Projects</a>
                         </h4>
                         <p class="property-card-text">Serving as main contractor for building and engineering projects
-                            with comprehensive oversight from planning to completion. We ensure quality control at every
+                            with comprehensive supervision from planning to completion. We ensure quality control at every
                             stage while adhering to strict timelines and budget constraints.</p>
                         <div class="property-btn-wrap"><a href="service-details"
                                 class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
