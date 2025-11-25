@@ -2,7 +2,7 @@
 
 @section('content')
 
- <div class="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcumb-bg.jpg">
+ <div class="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcumb-b.jpg">
         <div class="breadcumb-overlay" data-bg-src="assets/img/bg/breadcumb-bg-overlay.png">
 
         </div>
@@ -61,14 +61,10 @@
                 <div class="row gy-40 flex-row-reverse">
                     <div class="col-xl-3 text-xl-end">
                         <div class="about-tag">
-                            <div class="about-experience-tag">
-                                <span class="circle-title-anime text-title">
-                                    Builda Agent <i class="fas fa-star">
-
-                                    </i> Builda Living Solutions</span>
-                            </div>
-                            <div class="about-tag-thumb">
-                                <img src="assets/img/normal/about_1_3.png" alt="img">
+                            <div class="about-experience-tag"><span class="circle-title-anime text-dark">Engineering Excellence
+                                    <i class="fas fa-star"></i> </span></div>
+                            <div class="about-tag-thumb"><img src="assets/img/normal/about_1_3.png"
+                                    alt="Engineering Excellence">
                             </div>
                         </div>
                     </div>

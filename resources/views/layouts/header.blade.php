@@ -29,13 +29,101 @@
 
                                         <li>
                                             <a href="#">
-                                                Board of Directors</a>
+                                                Our Team</a>
                                         </li>
 
 
                                     </ul>
                                 </li>
-                                <li><a href="{{ route('services') }}">Services</a></li>
+                                <li class="menu-item-has-children">
+                                    <a href="#">
+                                        Services
+                                    </a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="#">
+                                                Road & Bridge Construction
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Building Construction
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Electrification
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Water Resources
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Facility Management
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Commissioning
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Procurement
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item-has-children">
+                                    <a href="#">
+                                        Sectors
+                                    </a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="#">
+                                                Infrastructure
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Housing
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Energy & Renewable Resources
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Power & Electrification
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Oil & Gas
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Ocean & Water Resources
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Defense & Military
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Transport
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
                                 <li><a href="{{ route('projects') }}">Projects</a></li>
                                 <li><a href="{{ route('blog') }}">Blog</a></li>
                                 <li><a href="{{ route('contact') }}">Contact Us</a></li>
