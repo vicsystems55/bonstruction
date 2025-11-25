@@ -12,8 +12,16 @@
             }))
         }))
     } if (e(window).on("load", (function () {
-        e(".preloader").fadeOut()
-    })), e(".preloader").length > 0 && e(".preloaderCls").each((function () {
+        console.log('window loaded: fading out preloader');
+        e(".preloader").fadeOut(function(){
+            e("body").css("overflow","auto");
+            console.log('preloader hidden via fadeOut');
+        });
+    })), setTimeout((function(){
+        console.log('preloader fallback: hide after timeout');
+        e(".preloader").fadeOut();
+        e("body").css("overflow","auto");
+    }), 30000), e(".preloader").length > 0 && e(".preloaderCls").each((function () {
         e(this).on("click", (function (t) {
             t.preventDefault(), e(".preloader").css("display", "none")
         }))
