@@ -41,10 +41,9 @@
                                     <div class="info-box_text">
                                         <div class="icon"><img src="assets/img/icon/envelope.svg" alt="img"></div>
                                         <div class="details">
-                                            <p><a href="mailto:support@bonstruction.com"
-                                                    class="info-box_link">support@bonstruction.com</a></p>
-                                            <p><a href="mailto:support24@bonstruction.com"
-                                                    class="info-box_link">support24@bonstruction.com</a></p>
+                                            <p><a href="mailto:info@bonstruction.com"
+                                                    class="info-box_link">info@bonstruction.com</a></p>
+
                                         </div>
                                     </div>
                                 </div>
