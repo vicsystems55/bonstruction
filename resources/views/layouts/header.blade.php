@@ -151,7 +151,28 @@
 
                                     </ul>
                                 </li>
-                                <li><a href="{{ route('projects') }}">Projects</a></li>
+                               <li class="menu-item-has-children">
+                                    <a href="#">
+                                        Projects</a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="{{ route('about') }}">
+                                                New Projects</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Ongoing Projects</a>
+                                        </li>
+                                          <li>
+                                            <a href="#">
+                                                Completed Projects</a>
+                                        </li>
+
+
+
+
+                                    </ul>
+                                </li>
                                 <li><a href="{{ route('blog') }}">Blog</a></li>
                                 <li><a href="{{ route('contact') }}">Contact Us</a></li>
 
@@ -165,7 +186,7 @@
                     </div>
                     <div class="col-auto d-none d-xl-block">
                         <div class="header-button"><a href="{{ route('contact') }}"
-                                class="th-btn btn-mask th-btn-icon">Download Profile</a> <button type="button"
+                                class="th-btn btn-mask th-btn-icon d-none">Download Profile</a> <button type="button"
                                 class="simple-icon sideMenuInfo sidebar-btn"><span class="line"></span> <span
                                     class="line"></span> <span class="line"></span></button></div>
                     </div>

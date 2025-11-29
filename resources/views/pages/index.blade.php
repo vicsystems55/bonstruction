@@ -128,103 +128,128 @@
             </div>
         </div>
     </div>
-    <div class="overflow-hidden space-top bg-black2" id="about-sec">
-        <div class="container">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-lg-6">
-                    <div class="title-area"><span class="shadow-title">About</span>
-                        <h2 class="sec-title text-white">About Us</h2>
-                        <p class="sec-text text-white">Bonstruction Engineering is a premier construction and
-                            engineering firm established in 2021, delivering excellence in project management and
-                            building solutions across Nigeria.</p>
-                    </div>
+<div class="overflow-hidden space-top bg-black2" id="about-sec">
+    <div class="container">
+        <div class="row justify-content-between align-items-center">
+            <div class="col-lg-6">
+                <div class="title-area">
+                    <span class="shadow-title">About</span>
+                    <h2 class="sec-title text-white">About Us</h2>
+                    <p class="sec-text text-white">BONSTRUCTION ENGINEERING is a dynamic construction engineering company committed to shaping modern infrastructure through innovation, precision, and excellence. We specialize in delivering high-quality engineering and construction solutions that meet today's standards and tomorrow's expectations.</p>
                 </div>
-                <div class="col-auto">
-                    <div class="sec-btn"><a href="about" class="th-btn btn-mask th-btn-icon">Learn More</a>
+            </div>
+            <div class="col-auto">
+                <div class="sec-btn">
+                    <a href="about" class="th-btn btn-mask th-btn-icon">Learn More</a>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-4 mt-10">
+            <div class="col-lg-6">
+                <div class="img-box1">
+                    <div class="img1 img-shine" data-mask-src="assets/img/shape/about-1-mask.png">
+                        <img src="assets/img/normal/about_1_1.png" alt="Modern Infrastructure Construction">
                     </div>
                 </div>
             </div>
-            <div class="row gy-4">
-                <div class="col-lg-6">
-                    <div class="img-box1">
-                        <div class="img1 img-shine" data-mask-src="assets/img/shape/about-1-mask.png"><img
-                                src="assets/img/normal/about_1_1.png" alt="Construction Site"></div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="img-box1">
-                        <div class="img1 img-shine" data-mask-src="assets/img/shape/about-1-mask.png"><img
-                                src="assets/img/normal/about_1_2.png" alt="Project Management"></div>
+            <div class="col-lg-6">
+                <div class="img-box1">
+                    <div class="img1 img-shine" data-mask-src="assets/img/shape/about-1-mask.png">
+                        <img src="assets/img/normal/about_1_2.png" alt="Engineering Precision">
                     </div>
                 </div>
             </div>
-            <div class="mt-60">
-                <div class="row gy-40 flex-row-reverse">
-                    <div class="col-xl-3 text-xl-end">
-                        <div class="about-tag">
-                            <div class="about-experience-tag"><span class="circle-title-anime">Bonstruction
-                                    <i class="fas fa-star"></i> </span></div>
-                            <div class="about-tag-thumb"><img src="assets/img/normal/about_1_3.png"
-                                    alt="Engineering Excellence">
-                            </div>
+        </div>
+        <div class="mt-60">
+            <div class="row gy-40 flex-row-reverse">
+                <div class="col-xl-3 text-xl-end">
+                    <div class="about-tag">
+                        <div class="about-experience-tag">
+                            <span class="circle-title-anime">Engineering Excellence<i class="fas fa-star"></i>
+                            </span>
+                        </div>
+                        <div class="about-tag-thumb">
+                            <img src="assets/img/normal/about_1_3.png" alt="Quality Construction">
                         </div>
                     </div>
-                    <div class="col-xl-9">
-                        <div class="about-wrap1">
-                            <p class="about-text text-white">We are main contractors for industrial projects,
-                                coordinating trades with unwavering quality.</p>
-                        </div>
+                </div>
+                <div class="col-xl-9">
+                    <div class="about-wrap1">
+                        <p class="sec-text text-white">At BONSTRUCTION ENGINEERING, quality and safety are at the heart of everything we do. We leverage modern technologies and advanced engineering practices to ensure projects are delivered on time, within budget, and to the highest levels of craftsmanship.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <section class="service-area-1 overflow-hidden space-bottom bg-black2 pt-80">
-        <div class="container">
-            <div class="row gy-40">
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-card">
-                        <div class="service-card-icon">
-                            <div class="icon"><img src="assets/img/icon/service-icon1-1.png" alt="Main Contracting">
-                            </div>
-                        </div>
-                        <div class="box-content">
-                            <h3 class="box-title"><a href="service-details">Main Contracting</a></h3>
-                            <p class="box-text">Serving as main contractor for turnkey and heavy duty scale projects
-                                and
-                                engineering projects with comprehensive supervision from planning to completion.</p>
+</div>
+
+<section class="service-area-1 overflow-hidden space-bottom bg-black2 pt-80">
+    <div class="container">
+        <div class="row justify-content-center text-center mb-60">
+            <div class="col-lg-8">
+                <div class="title-area">
+                    <span class="shadow-title">Services</span>
+                    <h2 class="sec-title text-white">Our Services</h2>
+                    <p class="sec-text text-white">Comprehensive construction engineering solutions tailored to your needs</p>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-40">
+            <div class="col-lg-3 col-md-6">
+                <div class="service-card">
+                    <div class="service-card-icon">
+                        <div class="icon">
+                            <img src="assets/img/icon/service-icon1-1.png" alt="Construction Services">
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-card">
-                        <div class="service-card-icon">
-                            <div class="icon"><img src="assets/img/icon/service-icon1-2.png" alt="Project Management">
-                            </div>
-                        </div>
-                        <div class="box-content">
-                            <h3 class="box-title"><a href="service-details">Project Management</a></h3>
-                            <p class="box-text">Expert coordination of specialist trades for industrial and commercial
-                                projects, ensuring seamless integration and strict quality control.</p>
-                        </div>
+                    <div class="box-content">
+                        <h3 class="box-title"><a href="service-details">Construction Services</a></h3>
+                        <p class="box-text">Residential and commercial building construction, industrial facilities, renovation projects, and turnkey project delivery with unwavering quality standards.</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-card">
-                        <div class="service-card-icon">
-                            <div class="icon"><img src="assets/img/icon/service-icon1-3.png"
-                                    alt="Engineering Solutions"></div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="service-card">
+                    <div class="service-card-icon">
+                        <div class="icon">
+                            <img src="assets/img/icon/service-icon1-2.png" alt="Civil & Structural Engineering">
                         </div>
-                        <div class="box-content">
-                            <h3 class="box-title"><a href="service-details">Engineering Solutions</a></h3>
-                            <p class="box-text">Providing design inputs and engineering solutions as value-add services
-                                with expertise in civil, mechanical, and chemical engineering.</p>
+                    </div>
+                    <div class="box-content">
+                        <h3 class="box-title"><a href="service-details">Civil & Structural Engineering</a></h3>
+                        <p class="box-text">Structural design and analysis, road construction, drainage systems, bridges, and foundation engineering for durable and efficient infrastructure.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="service-card">
+                    <div class="service-card-icon">
+                        <div class="icon">
+                            <img src="assets/img/icon/service-icon1-3.png" alt="Project Management">
                         </div>
+                    </div>
+                    <div class="box-content">
+                        <h3 class="box-title"><a href="service-details">Project Management</a></h3>
+                        <p class="box-text">Expert project coordination from feasibility studies and cost estimation to quality assurance and construction supervision for seamless project delivery.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="service-card">
+                    <div class="service-card-icon">
+                        <div class="icon">
+                            <img src="assets/img/icon/service-icon1-4.png" alt="Infrastructure Development">
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <h3 class="box-title"><a href="service-details">Infrastructure Development</a></h3>
+                        <p class="box-text">Urban development projects, water and sanitation systems, estate development, and comprehensive public and private infrastructure planning.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
     <section class="project-area-1 space overflow-hidden" data-bg-src="assets/img/bg/project-bg-1-1.png" data-opacity="7"
         data-overlay="title">
         <div class="container">
@@ -329,94 +354,96 @@
             </div>
         </div>
     </section>
-    <section class="space bg-black2" id="service-sec">
-        <div class="container">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-lg-6">
-                    <div class="title-area"><span class="shadow-title">Service</span>
-                        <h2 class="sec-title text-white">Our Professional Services</h2>
-                        <p class="sec-text text-white">We provide comprehensive construction and engineering solutions
-                            with expertise in project management, quality assurance, and specialized trade coordination.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="sec-btn"><a href="service" class="th-btn btn-mask th-btn-icon">All Services</a>
-                    </div>
+<section class="space bg-black2" id="service-sec">
+    <div class="container">
+        <div class="row justify-content-between align-items-center">
+            <div class="col-lg-6">
+                <div class="title-area">
+                    <span class="shadow-title">Services</span>
+                    <h2 class="sec-title text-white">Our Professional Services</h2>
+                    <p class="sec-text text-white">We offer comprehensive construction engineering solutions through innovation, precision, and excellence. Our multidisciplinary team delivers projects that are efficient, durable, and perfectly aligned with client requirements.</p>
                 </div>
             </div>
-            <div class="property-card-wrap">
-                <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                    <img src="assets/img/property/property11.png" alt="Main Contracting">
-                </div>
-                <div class="property-card">
-                    <div class="property-card-number">01</div>
-                    <div class="property-card-details"><span class="property-card-subtitle">Main Contracting</span>
-                        <h4 class="property-card-title"><a href="service-details">Turnkey Projects</a>
-                        </h4>
-                        <p class="property-card-text">Serving as a main contractor for Civil Engineering & Building
-                            Construction, Renewable Solar Energy & Rural Electrification, Borehole & Water Mgt,
-                            Hydropower & Dam, Erosion & Flood Control, Property Development, Commissioning, Procurement
-                            and Oil & Gas. We ensure quality control at every
-                            stage while adhering to strict timeline and budget planning.</p>
-                        <div class="property-btn-wrap"><a href="service-details"
-                                class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
-                    </div>
+            <div class="col-auto">
+                <div class="sec-btn">
+                    <a href="service" class="th-btn btn-mask th-btn-icon">All Services</a>
                 </div>
             </div>
-            <div class="property-card-wrap">
-                <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                    <img src="assets/img/property/property12.png" alt="Project Management">
-                </div>
-                <div class="property-card">
-                    <div class="property-card-number">02</div>
-                    <div class="property-card-details"><span class="property-card-subtitle">Project Management</span>
-                        <h4 class="property-card-title"><a href="service-details">Specialist Trade Coordination</a>
-                        </h4>
-                        <p class="property-card-text">Expert coordination of specialist trades for industrial and
-                            commercial projects. We manage timelines, resources, and communication to ensure seamless
-                            integration of all construction disciplines while maintaining quality standards.</p>
-                        <div class="property-btn-wrap"><a href="service-details"
-                                class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
-                    </div>
-                </div>
+        </div>
+
+        <!-- Construction Services -->
+        <div class="property-card-wrap">
+            <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
+                <img src="assets/img/property/property11.png" alt="Construction Services">
             </div>
-            <div class="property-card-wrap">
-                <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                    <img src="assets/img/property/property13.png" alt="Engineering Solutions">
-                </div>
-                <div class="property-card">
-                    <div class="property-card-number">03</div>
-                    <div class="property-card-details"><span class="property-card-subtitle">Engineering
-                            Solutions</span>
-                        <h4 class="property-card-title"><a href="service-details">Design & Build Services</a></h4>
-                        <p class="property-card-text">Providing design inputs and engineering solutions as value-add
-                            services. Our team offers technical expertise in civil, mechanical, and chemical engineering
-                            to optimize project outcomes and deliver innovative construction solutions.</p>
-                        <div class="property-btn-wrap"><a href="service-details"
-                                class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="property-card-wrap">
-                <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                    <img src="assets/img/property/property1-4.png" alt="Industrial Specialization">
-                </div>
-                <div class="property-card">
-                    <div class="property-card-number">04</div>
-                    <div class="property-card-details"><span class="property-card-subtitle">Industrial
-                            Specialization</span>
-                        <h4 class="property-card-title"><a href="service-details">Oil, Gas & Utility Sectors</a></h4>
-                        <p class="property-card-text">Specialized services for oil, gas, petroleum and utility
-                            industries with strict adherence to HSE standards. We bring expertise in high-risk
-                            operations and industrial project requirements with comprehensive safety protocols.</p>
-                        <div class="property-btn-wrap"><a href="service-details"
-                                class="th-btn btn-mask2 th-btn-icon">View Details</a></div>
+            <div class="property-card">
+                <div class="property-card-number">01</div>
+                <div class="property-card-details">
+                    <span class="property-card-subtitle">Construction Services</span>
+                    <h4 class="property-card-title"><a href="service-details">Comprehensive Building Solutions</a></h4>
+                    <p class="property-card-text">We deliver high-quality residential, commercial, and industrial construction projects with turnkey solutions. Our services include new building construction, renovation, remodeling, and structural upgrades, ensuring quality craftsmanship and adherence to modern construction standards.</p>
+                    <div class="property-btn-wrap">
+                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+
+        <!-- Civil & Structural Engineering -->
+        <div class="property-card-wrap">
+            <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
+                <img src="assets/img/property/property12.png" alt="Civil & Structural Engineering">
+            </div>
+            <div class="property-card">
+                <div class="property-card-number">02</div>
+                <div class="property-card-details">
+                    <span class="property-card-subtitle">Civil & Structural Engineering</span>
+                    <h4 class="property-card-title"><a href="service-details">Infrastructure Excellence</a></h4>
+                    <p class="property-card-text">Our engineering expertise includes structural design and analysis, road construction and rehabilitation, drainage and flood control systems, bridges and culverts, and foundation engineering. We ensure structural efficiency, durability, and compliance with all engineering standards.</p>
+                    <div class="property-btn-wrap">
+                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Project Management & Consultancy -->
+        <div class="property-card-wrap">
+            <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
+                <img src="assets/img/property/property13.png" alt="Project Management">
+            </div>
+            <div class="property-card">
+                <div class="property-card-number">03</div>
+                <div class="property-card-details">
+                    <span class="property-card-subtitle">Project Management & Consultancy</span>
+                    <h4 class="property-card-title"><a href="service-details">End-to-End Project Delivery</a></h4>
+                    <p class="property-card-text">We provide comprehensive project management including feasibility studies, site assessments, cost estimation, budgeting, procurement, vendor management, and quality assurance. Our construction supervision ensures projects are delivered on time, within budget, and to the highest quality standards.</p>
+                    <div class="property-btn-wrap">
+                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Infrastructure Development -->
+        <div class="property-card-wrap">
+            <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
+                <img src="assets/img/property/property1-4.png" alt="Infrastructure Development">
+            </div>
+            <div class="property-card">
+                <div class="property-card-number">04</div>
+                <div class="property-card-details">
+                    <span class="property-card-subtitle">Infrastructure Development</span>
+                    <h4 class="property-card-title"><a href="service-details">Community & Urban Development</a></h4>
+                    <p class="property-card-text">We specialize in urban development projects, water and sanitation systems, estate and community development, and comprehensive public and private infrastructure planning. Our sustainable approach ensures infrastructure that serves communities today while respecting tomorrow's needs.</p>
+                    <div class="property-btn-wrap">
+                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
     <section class="space overflow-hidden">
         <div class="container">
             <div class="row justify-content-center align-items-center">
@@ -824,69 +851,100 @@
                     <div class="title-area"><span class="shadow-title style2">Relationships</span>
                         <h2 class="sec-title">Our Clientele</h2>
                     </div>
-                    <div class="swiper th-slider has-shadow" id="clientSlider1"
-                        data-slider-options='{"breakpoints":{"0":{"slidesPerView":2},"576":{"slidesPerView":"3"},"768":{"slidesPerView":"4"},"992":{"slidesPerView":"5"},"1200":{"slidesPerView":"6"}}}'>
+                    <div class="swiper th-slider has-shadow" id="clientSlider1" dir="rtl"
+                        data-slider-options='{"rtl":true, "breakpoints":{"0":{"slidesPerView":2},"576":{"slidesPerView":"3"},"768":{"slidesPerView":"4"},"992":{"slidesPerView":"5"},"1200":{"slidesPerView":"6"}}}'>
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_1.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-0.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_2.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-2.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_3.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-3.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_4.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-5.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_5.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-6.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_6.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-7.png" alt="Image">
+                                </a>
+                            </div>
+
+                              <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-8.png" alt="Image">
+                                </a>
+                            </div>
+
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-16.png" alt="Image">
+                                </a>
+                            </div>
+
+
+                        </div>
+                    </div>
+                    <div class="swiper th-slider has-shadow" id="clientSlider1"
+                        data-slider-options='{  "breakpoints":{"0":{"slidesPerView":2},"576":{"slidesPerView":"3"},"768":{"slidesPerView":"4"},"992":{"slidesPerView":"5"},"1200":{"slidesPerView":"6"}}}'>
+                        <div class="swiper-wrapper">
+
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-8.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_1.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-9.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_2.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-10.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_3.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-11.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_4.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-12.png" alt="Image">
+                                </a>
+                            </div>
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-13.png" alt="Image">
+                                </a>
+                            </div>
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-14.png" alt="Image">
                                 </a>
                             </div>
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_5.svg" alt="Image">
+                                    <img src="assets/img/brand/brand-15.png" alt="Image">
                                 </a>
                             </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="client-card">
-                                    <img src="assets/img/brand/brand_4_6.svg" alt="Image">
-                                </a>
-                            </div>
+
                         </div>
                     </div>
                 </div>
