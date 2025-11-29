@@ -822,7 +822,7 @@
             <div class="client-area-4 space-top pb-5">
                 <div class="container">
                     <div class="title-area"><span class="shadow-title style2">Relationships</span>
-                        <h2 class="sec-title">Our Partners</h2>
+                        <h2 class="sec-title">Our Clientele</h2>
                     </div>
                     <div class="swiper th-slider has-shadow" id="clientSlider1"
                         data-slider-options='{"breakpoints":{"0":{"slidesPerView":2},"576":{"slidesPerView":"3"},"768":{"slidesPerView":"4"},"992":{"slidesPerView":"5"},"1200":{"slidesPerView":"6"}}}'>
