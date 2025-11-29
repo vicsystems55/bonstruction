@@ -15,20 +15,22 @@
                 <div class="info-box_text">
                     <div class="icon"><img src="{{ asset('assets/img/icon/location-dot.svg') }}" alt="location"></div>
                     <div class="details">
-                        <p>[Full Address], FCT, Abuja</p>
+                        <p>No. 3, Kaltungo Street, Garki II, FCT Abuja</p>
                     </div>
                 </div>
                 <div class="info-box_text">
                     <div class="icon"><img src="{{ asset('assets/img/icon/phone.svg') }}" alt="phone"></div>
                     <div class="details">
-                        <p><a href="tel:+234000000000" class="info-box_link">+234 XXX XXX XXXX</a></p>
+                        <p><a href="tel:+2348168445981" class="info-box_link">+234 816  844 5981</a></p>
+                        <p><a href="tel:+2348123059106" class="info-box_link">+234 812 305 9106</a></p>
+
                     </div>
                 </div>
                 <div class="info-box_text">
                     <div class="icon"><img src="{{ asset('assets/img/icon/envelope.svg') }}" alt="email"></div>
                     <div class="details">
-                        <p><a href="mailto:info@bonstructionengineering.com" class="info-box_link">info@bonstructionengineering.com</a></p>
-                        <p><a href="https://www.bonstructionengineering.com" class="info-box_link">www.bonstructionengineering.com</a></p>
+                        <p><a href="mailto:info@bonstruction.com" class="info-box_link">info@bonstruction.com</a></p>
+                        <p><a href="https://www.bonstruction.com" class="info-box_link">www.bonstruction.com</a></p>
                     </div>
                 </div>
             </div>

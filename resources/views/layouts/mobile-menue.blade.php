@@ -23,6 +23,22 @@
                             <a href="#">
                                 Our Team</a>
                         </li>
+                        <li>
+                            <a href="#">
+                                Our Clientele</a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Corporate Values</a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                CSR</a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Careers</a>
+                        </li>
 
 
                     </ul>

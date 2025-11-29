@@ -21,7 +21,7 @@
                                             Your trusted partner for quality construction and engineering solutions. We
                                             combine innovative project management with traditional expertise to deliver
                                             outstanding results.</p><a href="/contact" class="th-btn btn-mask th-btn-icon"
-                                            data-ani="slideinup" data-ani-delay="0.6s">Free Consultation</a>
+                                            data-ani="slideinup" data-ani-delay="0.6s">Book Consultation</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-3">

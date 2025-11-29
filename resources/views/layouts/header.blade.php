@@ -31,6 +31,22 @@
                                             <a href="#">
                                                 Our Team</a>
                                         </li>
+                                         <li>
+                                            <a href="#">
+                                                Our Clientele</a>
+                                        </li>
+                                          <li>
+                                            <a href="#">
+                                               Corporate Values</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                               CSR</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                               Careers</a>
+                                        </li>
 
 
                                     </ul>
@@ -114,7 +130,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Defense & Military
+                                                Defence & Military
                                             </a>
                                         </li>
                                         <li>
@@ -122,6 +138,17 @@
                                                 Transport
                                             </a>
                                         </li>
+                                         <li>
+                                            <a href="#">
+                                                Mining
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Minerals Exploration
+                                            </a>
+                                        </li>
+
                                     </ul>
                                 </li>
                                 <li><a href="{{ route('projects') }}">Projects</a></li>
