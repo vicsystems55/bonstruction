@@ -352,7 +352,7 @@
                 <div class="property-card">
                     <div class="property-card-number">01</div>
                     <div class="property-card-details"><span class="property-card-subtitle">Main Contracting</span>
-                        <h4 class="property-card-title"><a href="service-details">Small to Medium Scale Projects</a>
+                        <h4 class="property-card-title"><a href="service-details">Turnkey Projects</a>
                         </h4>
                         <p class="property-card-text">Serving as a main contractor for Civil Engineering & Building
                             Construction, Renewable Solar Energy & Rural Electrification, Borehole & Water Mgt,
