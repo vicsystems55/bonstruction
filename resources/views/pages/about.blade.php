@@ -141,47 +141,26 @@
     </section>
     <div class="space">
         <div class="container">
-            <div class="counter-card-wrap">
-                <div class="counter-card style4">
+            <div class="counter-card-wrap ">
+                <div class="counter-card">
                     <div class="media-body">
-                        <h2 class="box-number">
-                            <span class="counter-number">
-                                19</span>k+
-                        </h2>
-                        <p class="box-text">
-                            Successful Projects</p>
+                        <h2 class="box-number"><span class="counter-number">20</span>+</h2>
+                        <p class="box-text">PROJECTS COMPLETED</p>
                     </div>
                 </div>
-                <div class="counter-card style4">
+                <div class="counter-card">
                     <div class="media-body">
-                        <h2 class="box-number">
-                            <span class="counter-number">
-                                650</span>+
-                        </h2>
-                        <p class="box-text">
-                            Professional Team</p>
+                        <h2 class="box-number"><span class="counter-number">100</span>%</h2>
+                        <p class="box-text">QUALITY ASSURED</p>
                     </div>
                 </div>
-                <div class="counter-card style4">
+                <div class="counter-card">
                     <div class="media-body">
-                        <h2 class="box-number">
-                            <span class="counter-number">
-                                18</span>k+
-                        </h2>
-                        <p class="box-text">
-                            satisfied Clients</p>
+                        <h2 class="box-number"><span class="counter-number">3</span>+</h2>
+                        <p class="box-text">YEARS EXPERIENCE</p>
                     </div>
                 </div>
-                <div class="counter-card style4">
-                    <div class="media-body">
-                        <h2 class="box-number">
-                            <span class="counter-number">
-                                200</span>+
-                        </h2>
-                        <p class="box-text">
-                            Wining Awards</p>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
