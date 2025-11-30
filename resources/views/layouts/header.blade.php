@@ -152,19 +152,19 @@
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="#">
+                                    <a href="/projects">
                                         Projects</a>
                                     <ul class="sub-menu">
                                         <li>
-                                            <a href="{{ route('about') }}">
+                                            <a href="/projects#new-projects">
                                                 New Projects</a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/projects#on-going-projects">
                                                 Ongoing Projects</a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/projects#completed-projects">
                                                 Completed Projects</a>
                                         </li>
 
