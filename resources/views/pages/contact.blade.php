@@ -88,32 +88,42 @@
         </div>
         <div class="location-map contact-sec-map">
             <div class="contact-map">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sAngfuztheme!5e0!3m2!1sen!2sbd!4v1651028958211!5m2!1sen!2sbd"
-                    allowfullscreen="" loading="lazy">
-
-                </iframe>
+               <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.715316178635!2d7.476274375683472!3d9.01249900000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104e0b7c5c7f6e85%3A0x8e6f7c5c7f6e85!2sNo.%203%2C%20Kaltungo%20St%2C%20Garki%20II%2C%20Abuja!5e0!3m2!1sen!2sng!4v1690000000000!5m2!1sen!2sng"
+    width="100%"
+    height="600"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>
             </div>
-            <div class="location-map-address">
-                <div class="thumb">
-                    <img src="assets/img/property/property_inner_1.jpg" alt="img">
-                </div>
-                <div class="media-body">
-                    <h4 class="title">
-                        Address:</h4>
-                    <p class="text">
-                        Brooklyn, New York 11233, United States</p>
-                    <h4 class="title">
-                        Post Code:</h4>
-                    <p class="text">
-                        12345</p>
-                </div>
-            </div>
+         <div class="location-map-address">
+    <div class="thumb">
+        <img src="assets/img/property/property_inner_1.jpg" alt="Bonstruction Engineering Office">
+    </div>
+    <div class="media-body">
+        <h4 class="title">
+            Address:</h4>
+        <p class="text">
+            No. 3, Kaltungo Street, Garki II, Abuja</p>
+        <h4 class="title">
+            Phone:</h4>
+        <p class="text">
+            +234 816 844 5981<br>
+            +234 812 305 9106
+        </p>
+        <h4 class="title">
+            Email:</h4>
+        <p class="text">
+            info@bonstruction.com</p>
+    </div>
+</div>
         </div>
     </div>
     <div class="space contact-area-5 z-index-common" id="contact-sec">
         <div class="contact-thumb6-1">
-            <img src="assets/img/normal/contact_thumb_6_1.png" alt="img">
+            <img src="assets/img/normal/contact_thumb_6_21.png" alt="img">
         </div>
         <div class="container">
             <div class="row gx-60 gy-60 justify-content-end">
