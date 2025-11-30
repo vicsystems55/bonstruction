@@ -36,7 +36,7 @@
                 </div>
                 <div class="swiper-slide">
                     <div class="hero-inner" data-mask-src="assets/img/hero/hero_1_bg_mask.png">
-                        <div class="th-hero-bg" data-bg-src="assets/img/hero/hero_bg_1_2.jpg"></div>
+                        <div class="th-hero-bg" data-bg-src="assets/img/hero/hero_bg_1_55.jpg"></div>
                         <div class="hero-big-text">QUALITY</div>
                         <div class="container">
                             <div class="row align-items-center">
