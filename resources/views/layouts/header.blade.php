@@ -31,63 +31,63 @@
                                             <a href="/about#our-team">
                                                 Our Team</a>
                                         </li>
-                                         <li>
+                                        <li>
                                             <a href="/about#our-clientele">
                                                 Our Clientele</a>
                                         </li>
-                                          <li>
+                                        <li>
                                             <a href="#">
-                                               Corporate Values</a>
+                                                Corporate Values</a>
                                         </li>
                                         <li>
                                             <a href="#">
-                                               CSR</a>
+                                                CSR</a>
                                         </li>
                                         <li>
                                             <a href="#">
-                                               Careers</a>
+                                                Careers</a>
                                         </li>
 
 
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="#">
+                                    <a href="/services">
                                         Services
                                     </a>
                                     <ul class="sub-menu">
                                         <li>
-                                            <a href="#">
+                                            <a href="/services#road-bridge-construction">
                                                 Road & Bridge Construction
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/services#building-construction">
                                                 Building Construction
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/services#electrification">
                                                 Electrification
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/services#water-resources">
                                                 Water Resources
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/services#facility-management">
                                                 Facility Management
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/services#commissioning">
                                                 Commissioning
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/services#procurement">
                                                 Procurement
                                             </a>
                                         </li>
@@ -138,7 +138,7 @@
                                                 Transport
                                             </a>
                                         </li>
-                                         <li>
+                                        <li>
                                             <a href="#">
                                                 Mining
                                             </a>
@@ -151,7 +151,7 @@
 
                                     </ul>
                                 </li>
-                               <li class="menu-item-has-children">
+                                <li class="menu-item-has-children">
                                     <a href="#">
                                         Projects</a>
                                     <ul class="sub-menu">
@@ -163,7 +163,7 @@
                                             <a href="#">
                                                 Ongoing Projects</a>
                                         </li>
-                                          <li>
+                                        <li>
                                             <a href="#">
                                                 Completed Projects</a>
                                         </li>

@@ -6,85 +6,86 @@
         <div class="th-mobile-menu allow-natural-scroll">
             <ul>
                 <li><a href="{{ route('home') }}">Home</a></li>
+
+                                <li class="menu-item-has-children">
+                                    <a href="#">
+                                        Company</a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="{{ route('about') }}">
+                                                About Us</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about#vision-mission">
+                                                Vision & Mission</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="/about#our-team">
+                                                Our Team</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about#our-clientele">
+                                                Our Clientele</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Corporate Values</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                CSR</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Careers</a>
+                                        </li>
+
+
+                                    </ul>
+                                </li>
                 <li class="menu-item-has-children">
-                    <a href="#">
-                        Company</a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a href="{{ route('about') }}">
-                                About Us</a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Vision & Mission</a>
-                        </li>
-
-                        <li>
-                            <a href="#">
-                                Our Team</a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Our Clientele</a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Corporate Values</a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                CSR</a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Careers</a>
-                        </li>
-
-
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <a href="#">
-                        Services
-                    </a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a href="#">
-                                Road & Bridge Construction
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Building Construction
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Electrification
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Water Resources
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Facility Management
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Commissioning
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Procurement
-                            </a>
-                        </li>
-                    </ul>
-                </li>
+                                    <a href="/services">
+                                        Services
+                                    </a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="/services#road-bridge-construction">
+                                                Road & Bridge Construction
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/services#building-construction">
+                                                Building Construction
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/services#electrification">
+                                                Electrification
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/services#water-resources">
+                                                Water Resources
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/services#facility-management">
+                                                Facility Management
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/services#commissioning">
+                                                Commissioning
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/services#procurement">
+                                                Procurement
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
                 <li class="menu-item-has-children">
                     <a href="#">
                         Sectors

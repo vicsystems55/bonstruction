@@ -354,7 +354,7 @@
             </div>
         </div>
     </section>
-<section class="space bg-black2" id="service-sec">
+<section class="space bg-black2 d-none" id="service-sec">
     <div class="container">
         <div class="row justify-content-between align-items-center">
             <div class="col-lg-6">
