@@ -1,4 +1,4 @@
-@extends('layouts.base')
+@extends('layouts.base2')
 
 @section('content')
 
@@ -22,123 +22,149 @@
             </div>
         </div>
     </div>
-    <div class="overflow-hidden space-top bg-smoke3" id="about-sec">
-        <div class="container">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-lg-6">
-                    <div class="title-area">
-                        <h2 class="sec-title">
-                            About Us</h2>
-                        <p class="sec-text">
-                            We are a real estate firm with over 20 years of expertise, and our main goal is to provide
-                            amazing locations to our partners.</p>
-                    </div>
+<div class="overflow-hidden space-top bg-black2" id="about-sec">
+    <div class="container">
+        <div class="row justify-content-between align-items-center" >
+            <div class="col-lg-12">
+                <div class="title-area">
+                    <span class="shadow-title">Introduction</span>
+                    <h2 class="sec-title text-white">Who we are</h2>
+                    <p class="sec-text text-white" id="vision-mission">BONSTRUCTION ENGINEERING is a dynamic construction engineering company committed to shaping modern infrastructure through innovation, precision, and excellence. We specialize in delivering high-quality engineering and construction solutions that meet today's standards and tomorrow's expectations.</p>
                 </div>
-                <div class="col-auto">
-                    <div class="sec-btn">
-                        <a href="about.html" class="th-btn style4 btn-sm th-btn-icon">
-                            Learn More</a>
+            </div>
+        </div>
+
+        <!-- Mission & Vision Section -->
+        <div class="row gy-4 mt-40" >
+            <div class="col-lg-6">
+                <div class="mission-vision-card">
+                    <div class="card-icon">
+                        <i class="fas fa-bullseye"></i>
+                    </div>
+                    <h3 class="card-title text-white">Our Mission</h3>
+                    <p class="card-text text-white">To deliver innovative, high-quality, and sustainable construction engineering solutions that exceed client expectations while upholding the highest levels of professionalism, precision, and safety.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="mission-vision-card">
+                    <div class="card-icon">
+                        <i class="fas fa-eye"></i>
+                    </div>
+                    <h3 class="card-title text-white">Our Vision</h3>
+                    <p class="card-text text-white">To become a leading and widely trusted construction engineering firm recognized for superior project delivery, modern engineering solutions, and impactful contributions to infrastructure development across Africa and beyond.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row gy-4 mt-10">
+            <div class="col-lg-6">
+                <div class="img-box1">
+                    <div class="img1 img-shine" data-mask-src="assets/img/shape/about-1-mask.png">
+                        <img src="assets/img/normal/about_1_1.png" alt="Modern Infrastructure Construction">
                     </div>
                 </div>
             </div>
-            <div class="row gy-4">
-                <div class="col-lg-6">
-                    <div class="img-box1">
-                        <div class="img1 img-shine" data-mask-src="assets/img/shape/about-1-mask.png">
-                            <img src="assets/img/normal/about_1_1.png" alt="About">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="img-box1">
-                        <div class="img1 img-shine" data-mask-src="assets/img/shape/about-1-mask.png">
-                            <img src="assets/img/normal/about_1_2.png" alt="About">
-                        </div>
+            <div class="col-lg-6">
+                <div class="img-box1">
+                    <div class="img1 img-shine" data-mask-src="assets/img/shape/about-1-mask.png">
+                        <img src="assets/img/normal/about_1_2.png" alt="Engineering Precision">
                     </div>
                 </div>
             </div>
-            <div class="mt-60">
-                <div class="row gy-40 flex-row-reverse">
-                    <div class="col-xl-3 text-xl-end">
-                        <div class="about-tag">
-                            <div class="about-experience-tag"><span class="circle-title-anime text-dark">Engineering Excellence
-                                    <i class="fas fa-star"></i> </span></div>
-                            <div class="about-tag-thumb"><img src="assets/img/normal/about_1_3.png"
-                                    alt="Engineering Excellence">
-                            </div>
+        </div>
+
+        <div class="mt-60">
+            <div class="row gy-40 flex-row-reverse">
+                <div class="col-xl-3 text-xl-end">
+                    <div class="about-tag">
+                        <div class="about-experience-tag">
+                            <span class="circle-title-anime">Engineering Excellence<i class="fas fa-star"></i>
+                            </span>
+                        </div>
+                        <div class="about-tag-thumb">
+                            <img src="assets/img/normal/about_1_3.png" alt="Quality Construction">
                         </div>
                     </div>
-                    <div class="col-xl-9">
-                        <div class="about-wrap1">
-                            <p class="about-text text-title">
-                                Classic construction refers to building techniques, designs, and materials that
-                                emphasize durability, elegance,</p>
-                        </div>
+                </div>
+                <div class="col-xl-9">
+                    <div class="about-wrap1">
+                        <p class="sec-text text-white">At BONSTRUCTION ENGINEERING, quality and safety are at the heart of everything we do. We leverage modern technologies and advanced engineering practices to ensure projects are delivered on time, within budget, and to the highest levels of craftsmanship.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <section class="service-area-1 overflow-hidden space-bottom bg-smoke3 pt-80">
-        <div class="container">
-            <div class="row gy-40">
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-card">
-                        <div class="service-card-icon">
-                            <div class="icon">
-                                <img src="assets/img/icon/service-icon1-4.png" alt="Icon">
-                            </div>
-                        </div>
-                        <div class="box-content">
-                            <h3 class="box-title">
-                                <a class="text-title" href="service-details.html">
-                                    Traditional Design</a>
-                            </h3>
-                            <p class="box-text text-body">
-                                Uses architectural styles such as Colonial, Victorian, Neoclassical, or Romanesque.
-                                Incorporates decorative moldings, columns, arches,</p>
+</div>
+</div>
+
+<section class="service-area-1 overflow-hidden space-bottom bg-black2 pt-80">
+    <div class="container">
+        <div class="row justify-content-center text-center mb-60">
+            <div class="col-lg-8">
+                <div class="title-area">
+                    <span class="shadow-title">Services</span>
+                    <h2 class="sec-title text-white">Our Services</h2>
+                    <p class="sec-text text-white">Comprehensive construction engineering solutions</p>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-40">
+            <div class="col-lg-3 col-md-6">
+                <div class="service-card">
+                    <div class="service-card-icon">
+                        <div class="icon">
+                            <img src="assets/img/icon/service-icon1-1.png" alt="Construction Services">
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-card">
-                        <div class="service-card-icon">
-                            <div class="icon">
-                                <img src="assets/img/icon/service-icon1-5.png" alt="Icon">
-                            </div>
-                        </div>
-                        <div class="box-content">
-                            <h3 class="box-title">
-                                <a class="text-title" href="service-details.html">
-                                    High-Quality Materials</a>
-                            </h3>
-                            <p class="box-text text-body">
-                                Stone, brick, marble, and wood are commonly used for durability and elegance. Classic
-                                finishes like granite countertops, hardwood flooring.</p>
-                        </div>
+                    <div class="box-content">
+                        <h3 class="box-title"><a href="service-details">Construction</a></h3>
+                        <p class="box-text">Residential, commercial & industrial building with quality standards.</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-card">
-                        <div class="service-card-icon">
-                            <div class="icon">
-                                <img src="assets/img/icon/service-icon1-6.png" alt="Icon">
-                            </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="service-card">
+                    <div class="service-card-icon">
+                        <div class="icon">
+                            <img src="assets/img/icon/service-icon1-2.png" alt="Civil & Structural Engineering">
                         </div>
-                        <div class="box-content">
-                            <h3 class="box-title">
-                                <a class="text-title" href="service-details.html">
-                                    Structural Durability</a>
-                            </h3>
-                            <p class="box-text text-body">
-                                Use traditional masonry, reinforced concrete, & timber framing for strength. Built to
-                                withstand the test of time, with strong foundations</p>
+                    </div>
+                    <div class="box-content">
+                        <h3 class="box-title"><a href="service-details">Engineering</a></h3>
+                        <p class="box-text">Structural design, roads, bridges and foundation engineering.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="service-card">
+                    <div class="service-card-icon">
+                        <div class="icon">
+                            <img src="assets/img/icon/service-icon1-3.png" alt="Project Management">
                         </div>
+                    </div>
+                    <div class="box-content">
+                        <h3 class="box-title"><a href="service-details">Project Management</a></h3>
+                        <p class="box-text">Expert coordination from planning to quality assurance.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="service-card">
+                    <div class="service-card-icon">
+                        <div class="icon">
+                            <img src="assets/img/icon/service-icon1-5.png" alt="Infrastructure Development">
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <h3 class="box-title"><a href="service-details">Infrastructure</a></h3>
+                        <p class="box-text">Urban development, water systems and comprehensive planning.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
     <div class="space">
         <div class="container">
             <div class="counter-card-wrap ">
@@ -164,71 +190,64 @@
             </div>
         </div>
     </div>
-    <section class="space bg-black2 position-relative" id="process-area2">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-7">
-                    <div class="title-area text-center">
-                        <h2 class="sec-title text-white">
-                            Working Process</h2>
-                        <p class="sec-text text-white">
-                            We are a real estate firm with over 20 years of expertise, and our main goal is to provide
-                            amazing locations to our partners and clients.</p>
+<section class="space bg-black2 position-relative" id="process-area2">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xl-7">
+                <div class="title-area text-center">
+                    <h2 class="sec-title text-white">Our Approach</h2>
+                    <p class="sec-text text-white">
+                        A value-driven methodology ensuring precision, quality, and sustainability in every project.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-4 justify-content-center">
+            <div class="col-xl-4 col-md-6">
+                <div class="process-card2" data-bg-src="assets/img/bg/process-card2-bg.png">
+                    <div class="box-icon">
+                        <img src="assets/img/icon/process_card_2_1.svg" alt="Planning">
+                    </div>
+                    <div class="box-content">
+                        <h3 class="box-title">Client Planning</h3>
+                        <p class="box-text">
+                            Understanding client goals through feasibility studies and detailed project planning.
+                        </p>
+                        <p class="box-number">Step 01</p>
                     </div>
                 </div>
             </div>
-            <div class="row gy-4 justify-content-center">
-                <div class="col-xl-4 col-md-6">
-                    <div class="process-card2" data-bg-src="assets/img/bg/process-card2-bg.png">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_card_2_1.svg" alt="icon">
-                        </div>
-                        <div class="box-content">
-                            <h3 class="box-title">
-                                Consultation & Planning</h3>
-                            <p class="box-text">
-                                Conduct an initial assessment to understand client needs and project scope. Provide a
-                                detailed consultation, including design ideas, materials, and budget estimates.</p>
-                            <p class="box-number">
-                                Step - 01</p>
-                        </div>
+            <div class="col-xl-4 col-md-6">
+                <div class="process-card2" data-bg-src="assets/img/bg/process-card2-bg.png">
+                    <div class="box-icon">
+                        <img src="assets/img/icon/process_card_2_2.svg" alt="Engineering">
+                    </div>
+                    <div class="box-content">
+                        <h3 class="box-title">Precision Engineering</h3>
+                        <p class="box-text">
+                            Innovative structural designs using advanced technologies and sustainable practices.
+                        </p>
+                        <p class="box-number">Step 02</p>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-6">
-                    <div class="process-card2" data-bg-src="assets/img/bg/process-card2-bg.png">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_card_2_2.svg" alt="icon">
-                        </div>
-                        <div class="box-content">
-                            <h3 class="box-title">
-                                Design & Development</h3>
-                            <p class="box-text">
-                                Begin demolition and structural modifications as per the approved plan. Proceed with
-                                construction, installation, and finishing work (flooring, painting, fixtures, etc.).</p>
-                            <p class="box-number">
-                                Step - 02</p>
-                        </div>
+            </div>
+            <div class="col-xl-4 col-md-6">
+                <div class="process-card2" data-bg-src="assets/img/bg/process-card2-bg.png">
+                    <div class="box-icon">
+                        <img src="assets/img/icon/process_card_2_3.svg" alt="Construction">
                     </div>
-                </div>
-                <div class="col-xl-4 col-md-6">
-                    <div class="process-card2" data-bg-src="assets/img/bg/process-card2-bg.png">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_card_2_3.svg" alt="icon">
-                        </div>
-                        <div class="box-content">
-                            <h3 class="box-title">
-                                Final Inspection & Handover</h3>
-                            <p class="box-text">
-                                Perform a comprehensive inspection to ensure the renovation meets quality standards.
-                                Make necessary adjustments or touch-ups based on client feedback.</p>
-                            <p class="box-number">
-                                Step - 03</p>
-                        </div>
+                    <div class="box-content">
+                        <h3 class="box-title">Quality Construction</h3>
+                        <p class="box-text">
+                            High-standard execution with rigorous quality control and safety protocols.
+                        </p>
+                        <p class="box-number">Step 03</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
     <div class="bg-smoke3">
         <div class="container">
             <div class="video-area-1-1 space-bottom position-relative" data-sec-pos="top-half"
@@ -241,491 +260,26 @@
 
                             </i></a>
                     </div>
-                    <div class="video-wrap-details bg-white">
-                        <div class="title-area mb-45">
-                            <h2 class="sec-title">
-                                Why Choose Us For Builda Construction</h2>
-                            <p class="sec-text">
-                                Classic construction refers to building techniques, designs, and materials that
-                                emphasize durability, elegance, and traditional craftsmanship.</p>
-                        </div>
-                        <div class="row gy-4">
-                            <div class="col-sm-6">
-                                <div class="why-info-card style2">
-                                    <div class="box-icon">
-                                        <img src="assets/img/icon/checkmark2.svg" alt="img">
-                                    </div>
-                                    <h4 class="box-title">
-                                        Quality Control System</h4>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="why-info-card style2">
-                                    <div class="box-icon">
-                                        <img src="assets/img/icon/checkmark2.svg" alt="img">
-                                    </div>
-                                    <h4 class="box-title">
-                                        100% Satisfaction Guarantee</h4>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="why-info-card style2">
-                                    <div class="box-icon">
-                                        <img src="assets/img/icon/checkmark2.svg" alt="img">
-                                    </div>
-                                    <h4 class="box-title">
-                                        Highly Professional Staff</h4>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="why-info-card style2">
-                                    <div class="box-icon">
-                                        <img src="assets/img/icon/checkmark2.svg" alt="img">
-                                    </div>
-                                    <h4 class="box-title">
-                                        Accurate Testing Processes</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    @include('components.why-choose-us')
                 </div>
             </div>
         </div>
     </div>
-    <section class="team-area-9 overflow-hidden bg-smoke3 space-bottom" id="team-sec">
-        <div class="sec-bg-shape9-1 spin shape-mockup d-xxl-block d-none" data-top="4%" data-right="-2%">
-            <img src="assets/img/shape/section_shape_2_1.jpg" alt="img">
-        </div>
-        <div class="sec-bg-shape9-2 jump shape-mockup d-xxl-block d-none" data-bottom="7%" data-left="2%">
-            <img src="assets/img/shape/section_shape_2_3.jpg" alt="img">
-        </div>
-        <div class="container z-index-common">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-xl-6 col-lg-7">
-                    <div class="title-area">
-                        <h2 class="sec-title">
-                            Our Team Member</h2>
-                        <p class="sec-text">
-                            We are a real estate firm with over 20 years of expertise, We provide amazing locations to
-                            our partners and clients.</p>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="sec-btn">
-                        <a href="team.html" class="th-btn style4 btn-sm th-btn-icon">
-                            View All Members</a>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper th-slider team-slider9" id="teamSlider9"
-                data-slider-options='{"paginationType":"progressbar","breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style6">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="assets/img/team/team_8_1.png" alt="Team">
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="media">
-                                    <div class="media-left">
-                                        <h3 class="box-title">
-                                            <a href="team-details.html">
-                                                Michel Smith</a>
-                                        </h3><span class="team-desig">
-                                            Architecture</span>
-                                    </div>
-                                    <div class="media-body">
-                                        <a class="icon-btn" href="tel:09876543210">
-                                            <img src="assets/img/icon/phone.svg" alt="img">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a target="_blank" href="https://facebook.com/">
-                                        <i class="fab fa-facebook-f">
-
-                                        </i></a> <a target="_blank" href="https://twitter.com/">
-                                        <i class="fab fa-twitter">
-
-                                        </i></a> <a target="_blank" href="https://linkedin.com/">
-                                        <i class="fab fa-linkedin-in">
-
-                                        </i></a> <a target="_blank" href="https://youtube.com/">
-                                        <i class="fab fa-youtube">
-
-                                        </i></a> <a target="_blank" href="https://instagram.com/">
-                                        <i class="fab fa-instagram">
-
-                                        </i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style6">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="assets/img/team/team_8_2.png" alt="Team">
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="media">
-                                    <div class="media-left">
-                                        <h3 class="box-title">
-                                            <a href="team-details.html">
-                                                Andrew Richard</a>
-                                        </h3><span class="team-desig">
-                                            Civil Engineer</span>
-                                    </div>
-                                    <div class="media-body">
-                                        <a class="icon-btn" href="tel:09876543210">
-                                            <img src="assets/img/icon/phone.svg" alt="img">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a target="_blank" href="https://facebook.com/">
-                                        <i class="fab fa-facebook-f">
-
-                                        </i></a> <a target="_blank" href="https://twitter.com/">
-                                        <i class="fab fa-twitter">
-
-                                        </i></a> <a target="_blank" href="https://linkedin.com/">
-                                        <i class="fab fa-linkedin-in">
-
-                                        </i></a> <a target="_blank" href="https://youtube.com/">
-                                        <i class="fab fa-youtube">
-
-                                        </i></a> <a target="_blank" href="https://instagram.com/">
-                                        <i class="fab fa-instagram">
-
-                                        </i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style6">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="assets/img/team/team_8_3.png" alt="Team">
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="media">
-                                    <div class="media-left">
-                                        <h3 class="box-title">
-                                            <a href="team-details.html">
-                                                Amber Johnson</a>
-                                        </h3><span class="team-desig">
-                                            Engineer</span>
-                                    </div>
-                                    <div class="media-body">
-                                        <a class="icon-btn" href="tel:09876543210">
-                                            <img src="assets/img/icon/phone.svg" alt="img">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a target="_blank" href="https://facebook.com/">
-                                        <i class="fab fa-facebook-f">
-
-                                        </i></a> <a target="_blank" href="https://twitter.com/">
-                                        <i class="fab fa-twitter">
-
-                                        </i></a> <a target="_blank" href="https://linkedin.com/">
-                                        <i class="fab fa-linkedin-in">
-
-                                        </i></a> <a target="_blank" href="https://youtube.com/">
-                                        <i class="fab fa-youtube">
-
-                                        </i></a> <a target="_blank" href="https://instagram.com/">
-                                        <i class="fab fa-instagram">
-
-                                        </i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style6">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="assets/img/team/team_8_1.png" alt="Team">
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="media">
-                                    <div class="media-left">
-                                        <h3 class="box-title">
-                                            <a href="team-details.html">
-                                                Michel Smith</a>
-                                        </h3><span class="team-desig">
-                                            Architecture</span>
-                                    </div>
-                                    <div class="media-body">
-                                        <a class="icon-btn" href="tel:09876543210">
-                                            <img src="assets/img/icon/phone.svg" alt="img">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a target="_blank" href="https://facebook.com/">
-                                        <i class="fab fa-facebook-f">
-
-                                        </i></a> <a target="_blank" href="https://twitter.com/">
-                                        <i class="fab fa-twitter">
-
-                                        </i></a> <a target="_blank" href="https://linkedin.com/">
-                                        <i class="fab fa-linkedin-in">
-
-                                        </i></a> <a target="_blank" href="https://youtube.com/">
-                                        <i class="fab fa-youtube">
-
-                                        </i></a> <a target="_blank" href="https://instagram.com/">
-                                        <i class="fab fa-instagram">
-
-                                        </i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style6">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="assets/img/team/team_8_2.png" alt="Team">
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="media">
-                                    <div class="media-left">
-                                        <h3 class="box-title">
-                                            <a href="team-details.html">
-                                                Andrew Richard</a>
-                                        </h3><span class="team-desig">
-                                            Civil Engineer</span>
-                                    </div>
-                                    <div class="media-body">
-                                        <a class="icon-btn" href="tel:09876543210">
-                                            <img src="assets/img/icon/phone.svg" alt="img">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a target="_blank" href="https://facebook.com/">
-                                        <i class="fab fa-facebook-f">
-
-                                        </i></a> <a target="_blank" href="https://twitter.com/">
-                                        <i class="fab fa-twitter">
-
-                                        </i></a> <a target="_blank" href="https://linkedin.com/">
-                                        <i class="fab fa-linkedin-in">
-
-                                        </i></a> <a target="_blank" href="https://youtube.com/">
-                                        <i class="fab fa-youtube">
-
-                                        </i></a> <a target="_blank" href="https://instagram.com/">
-                                        <i class="fab fa-instagram">
-
-                                        </i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style6">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="assets/img/team/team_8_3.png" alt="Team">
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="media">
-                                    <div class="media-left">
-                                        <h3 class="box-title">
-                                            <a href="team-details.html">
-                                                Amber Johnson</a>
-                                        </h3><span class="team-desig">
-                                            Engineer</span>
-                                    </div>
-                                    <div class="media-body">
-                                        <a class="icon-btn" href="tel:09876543210">
-                                            <img src="assets/img/icon/phone.svg" alt="img">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a target="_blank" href="https://facebook.com/">
-                                        <i class="fab fa-facebook-f">
-
-                                        </i></a> <a target="_blank" href="https://twitter.com/">
-                                        <i class="fab fa-twitter">
-
-                                        </i></a> <a target="_blank" href="https://linkedin.com/">
-                                        <i class="fab fa-linkedin-in">
-
-                                        </i></a> <a target="_blank" href="https://youtube.com/">
-                                        <i class="fab fa-youtube">
-
-                                        </i></a> <a target="_blank" href="https://instagram.com/">
-                                        <i class="fab fa-instagram">
-
-                                        </i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="slider-pagination">
-
-                </div><button data-slider-prev="#teamSlider9" class="slider-arrow slider-prev">
-                    <img src="assets/img/icon/arrow-left.svg" alt="icon">
-                </button> <button data-slider-next="#teamSlider9" class="slider-arrow slider-next">
-                    <img src="assets/img/icon/arrow-right.svg" alt="icon">
-                </button>
-            </div>
-        </div>
-    </section>
-    <section class="testi-sec-1 overflow-hidden space overflow-hidden">
+    <div id="our-team"></div>
+    @include('components.team-section', [
+        'teamAreaClass' => 'team-area-9 overflow-hidden bg-smoke3 space-bottom',
+        'textColor' => 'text-black',
+        'buttonEnabled' => 'd-none'
+        ])
+    <section class=" testi-sec-1 overflow-hidden space overflow-hidden">
         <div class="container">
-            <div class="row gy-80 flex-row-reverse">
-                <div class="col-xl-5">
-                    <div class="testi-thumb-wrap">
-                        <div class="img1">
-                            <img src="assets/img/testimonial/testi_thumb_1_1.png" alt="img">
-                        </div>
-                        <div class="img2 jump">
-                            <img src="assets/img/testimonial/testi_thumb_1_2.png" alt="img">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-7">
-                    <div class="title-area">
-                        <h2 class="sec-title">
-                            What Our Clients Say</h2>
-                    </div>
-                    <div class="swiper th-slider testi-slider1" id="testiSlider1"
-                        data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"1"},"992":{"slidesPerView":"1"},"1200":{"slidesPerView":"1"}}}'>
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="testi-card">
-                                    <div class="testi-grid_review">
-                                        <i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i>
-                                    </div>
-                                    <p class="testi-card_text">
-                                        “Classic construction refers to building techniques, designs, and materials that
-                                        emphasize durability, elegance, and traditional craftsmanship. This approach is
-                                        often inspired by historical architecture.”</p>
-                                    <div class="testi-grid-wrap">
-                                        <div class="testi-card_profile">
-                                            <div class="avatar" data-mask-src="assets/img/shape/testi_1_1-mask.png">
-                                                <img src="assets/img/testimonial/testi_1_1.png" alt="avatar">
-                                            </div>
-                                            <div class="testi-card_profile-details">
-                                                <h3 class="testi-card_name">
-                                                    Janny Muna</h3><span class="testi-card_desig">
-                                                    CEO of Company</span>
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <img src="assets/img/icon/qoute.svg" alt="icon">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="testi-card">
-                                    <div class="testi-grid_review">
-                                        <i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i>
-                                    </div>
-                                    <p class="testi-card_text">
-                                        “Classic construction refers to building techniques, designs, and materials that
-                                        emphasize durability, elegance, and traditional craftsmanship. This approach is
-                                        often inspired by historical architecture.”</p>
-                                    <div class="testi-grid-wrap">
-                                        <div class="testi-card_profile">
-                                            <div class="avatar" data-mask-src="assets/img/shape/testi_1_1-mask.png">
-                                                <img src="assets/img/testimonial/testi_1_2.png" alt="avatar">
-                                            </div>
-                                            <div class="testi-card_profile-details">
-                                                <h3 class="testi-card_name">
-                                                    Alexan Micelito</h3><span class="testi-card_desig">
-                                                    Senior Manager</span>
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <img src="assets/img/icon/qoute.svg" alt="icon">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="testi-card">
-                                    <div class="testi-grid_review">
-                                        <i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i><i class="fa-sharp fa-solid fa-star">
-
-                                        </i>
-                                    </div>
-                                    <p class="testi-card_text">
-                                        “Classic construction refers to building techniques, designs, and materials that
-                                        emphasize durability, elegance, and traditional craftsmanship. This approach is
-                                        often inspired by historical architecture.”</p>
-                                    <div class="testi-grid-wrap">
-                                        <div class="testi-card_profile">
-                                            <div class="avatar" data-mask-src="assets/img/shape/testi_1_1-mask.png">
-                                                <img src="assets/img/testimonial/testi_1_3.png" alt="avatar">
-                                            </div>
-                                            <div class="testi-card_profile-details">
-                                                <h3 class="testi-card_name">
-                                                    Brooklyn Simmons</h3><span class="testi-card_desig">
-                                                    Junior Manager</span>
-                                            </div>
-                                        </div>
-                                        <div class="quote-icon">
-                                            <img src="assets/img/icon/qoute.svg" alt="icon">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slider-pagination style2">
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+                @include('components.testimonies')
+                <div id="our-clientele"></div>
+                @include('components.clientel-area')
         </div>
     </section>
 
 @endsection
+
+
+

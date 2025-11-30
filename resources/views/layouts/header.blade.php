@@ -23,16 +23,16 @@
                                                 About Us</a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/about#vision-mission">
                                                 Vision & Mission</a>
                                         </li>
 
                                         <li>
-                                            <a href="#">
+                                            <a href="/about#our-team">
                                                 Our Team</a>
                                         </li>
                                          <li>
-                                            <a href="#">
+                                            <a href="/about#our-clientele">
                                                 Our Clientele</a>
                                         </li>
                                           <li>
