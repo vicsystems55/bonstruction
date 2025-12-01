@@ -253,13 +253,10 @@
             <div class="video-area-1-1 space-bottom position-relative" data-sec-pos="top-half"
                 data-pos-for="#process-area2">
                 <div class="video-wrap1 style2 overflow-hidden">
-                    <div class="video-box1" data-overlay="black2" data-opacity="3">
-                        <img src="assets/img/normal/video_1_2.png" alt="img">
-                        <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video">
-                            <i class="fa-sharp fa-solid fa-play">
-
-                            </i></a>
-                    </div>
+                     <div class="video-box1" data-overlay="black2" data-opacity="3"
+                    data-mask-src="assets/img/shape/video_1_1_mask.png"><img src="assets/img/normal/video_1_1.png"
+                        alt="img"> <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+                        class="play-btn style3 popup-video"><i class="fa-sharp fa-solid fa-play"></i></a></div>
                     @include('components.why-choose-us')
                 </div>
             </div>

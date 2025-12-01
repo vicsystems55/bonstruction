@@ -28,7 +28,7 @@
                                     <div class="testi-grid-wrap">
                                         <div class="testi-card_profile">
                                             <div class="avatar" data-mask-src="assets/img/shape/testi_1_1-mask.png">
-                                                <img src="assets/img/testimonial/testi_1_1.png" alt="avatar">
+                                                <img src="assets/img/testimonial/testi_1_.png" alt="avatar">
                                             </div>
                                             <div class="testi-card_profile-details">
                                                 <h3 class="testi-card_name">Adebayo Johnson</h3><span
@@ -54,7 +54,7 @@
                                     <div class="testi-grid-wrap">
                                         <div class="testi-card_profile">
                                             <div class="avatar" data-mask-src="assets/img/shape/testi_1_1-mask.png">
-                                                <img src="assets/img/testimonial/testi_1_2.png" alt="avatar">
+                                                <img src="assets/img/testimonial/testi_1_.png" alt="avatar">
                                             </div>
                                             <div class="testi-card_profile-details">
                                                 <h3 class="testi-card_name">Chiamaka Okoro</h3><span
@@ -79,7 +79,7 @@
                                     <div class="testi-grid-wrap">
                                         <div class="testi-card_profile">
                                             <div class="avatar" data-mask-src="assets/img/shape/testi_1_1-mask.png">
-                                                <img src="assets/img/testimonial/testi_1_3.png" alt="avatar">
+                                                <img src="assets/img/testimonial/testi_1_.png" alt="avatar">
                                             </div>
                                             <div class="testi-card_profile-details">
                                                 <h3 class="testi-card_name">David Chen</h3><span
