@@ -131,6 +131,16 @@
                                 Transport
                             </a>
                         </li>
+                        <li>
+                            <a href="#">
+                                Mining
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Minerals Exploration
+                            </a>
+                        </li>
                     </ul>
                 </li>
                 <li class="menu-item-has-children">
