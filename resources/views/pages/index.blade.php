@@ -36,7 +36,7 @@
                 </div>
                 <div class="swiper-slide">
                     <div class="hero-inner" data-mask-src="assets/img/hero/hero_1_bg_mask.png">
-                        <div class="th-hero-bg" data-bg-src="assets/img/hero/hhero_bg_1_1.jpg"></div>
+                        <div class="th-hero-bg" data-bg-src="assets/img/hero/hero_bg_1_1.jpg"></div>
                         <div class="hero-big-text">QUALITY</div>
                         <div class="container">
                             <div class="row align-items-center">
@@ -50,7 +50,7 @@
                                             Our rigorous quality assurance and HSE policies ensure every project meets
                                             the highest standards of safety, durability, and client satisfaction.</p><a
                                             href="/contact" class="th-btn btn-mask th-btn-icon" data-ani="slideinup"
-                                            data-ani-delay="0.6s">Free Consultation</a>
+                                            data-ani-delay="0.6s">Book Consultation</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-3">
@@ -79,7 +79,7 @@
                                             From concept to completion, we provide comprehensive project management and
                                             engineering solutions for industrial, commercial, and residential projects.
                                         </p><a href="/contact" class="th-btn btn-mask th-btn-icon" data-ani="slideinup"
-                                            data-ani-delay="0.6s">Free Consultation</a>
+                                            data-ani-delay="0.6s">Book Consultation</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-3">
