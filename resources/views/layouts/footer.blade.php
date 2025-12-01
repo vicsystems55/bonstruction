@@ -43,6 +43,8 @@
                                         <div class="details">
                                             <p><a href="mailto:info@bonstruction.com"
                                                     class="info-box_link">info@bonstruction.com</a></p>
+                                                     <p><a href="mailto:info@bonstruction.com"
+                                                    class="info-box_link">support@bonstruction.com</a></p>
 
                                         </div>
                                     </div>
