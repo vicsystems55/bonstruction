@@ -76,6 +76,11 @@
                                                 Water Resources
                                             </a>
                                         </li>
+                                         <li>
+                                            <a href="#">
+                                                Minerals Exploration
+                                            </a>
+                                        </li>
                                         <li>
                                             <a href="/services#facility-management">
                                                 Facility Management
@@ -91,6 +96,7 @@
                                                 Procurement
                                             </a>
                                         </li>
+
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
@@ -143,11 +149,7 @@
                                                 Mining
                                             </a>
                                         </li>
-                                        <li>
-                                            <a href="#">
-                                                Minerals Exploration
-                                            </a>
-                                        </li>
+
 
                                     </ul>
                                 </li>
