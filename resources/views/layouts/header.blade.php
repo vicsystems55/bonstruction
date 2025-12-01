@@ -100,7 +100,7 @@
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="#">
+                                    <a href="/sectors">
                                         Sectors
                                     </a>
                                     <ul class="sub-menu">

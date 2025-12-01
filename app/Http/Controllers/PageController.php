@@ -73,4 +73,11 @@ class PageController extends Controller
         $description = 'Explore career opportunities with us';
         return view('pages.careers', compact('title', 'description'));
     }
+
+    public function sectors()
+    {
+        $title = 'Sectors We Serve';
+        $description = 'Discover the various sectors we specialize in';
+        return view('pages.sectors', compact('title', 'description'));
+    }
 }
