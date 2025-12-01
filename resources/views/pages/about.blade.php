@@ -248,8 +248,8 @@
         </div>
     </div>
 </section>
-    <div class="bg-smoke3">
-        <div class="container">
+    <div class="bg-smoke3" id="corporate-values">
+        <div class="container" >
             <div class="video-area-1-1 space-bottom position-relative" data-sec-pos="top-half"
                 data-pos-for="#process-area2">
                 <div class="video-wrap1 style2 overflow-hidden">

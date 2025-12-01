@@ -36,11 +36,11 @@
                                                 Our Clientele</a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/about#corporate-values">
                                                 Corporate Values</a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/csr">
                                                 CSR</a>
                                         </li>
                                         <li>

@@ -59,4 +59,11 @@ class PageController extends Controller
         $description = 'Read our latest articles and updates from Bonstruction';
         return view('pages.blog', compact('title', 'description'));
     }
+
+    public function csr()
+    {
+        $title = 'Corporate Social Responsibility';
+        $description = 'Learn about our CSR initiatives and community involvement';
+        return view('pages.csr', compact('title', 'description'));
+    }
 }
