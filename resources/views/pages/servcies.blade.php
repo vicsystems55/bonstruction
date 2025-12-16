@@ -36,7 +36,7 @@
             </div>
             <div class="col-auto">
                 <div class="sec-btn">
-                    <a href="service" class="th-btn btn-mask th-btn-icon">All Services</a>
+                    <a href="service" class="th-btn btn-mask th-btn-icon d-none">All Services</a>
                 </div>
             </div>
         </div>
@@ -44,7 +44,7 @@
         <!-- Road & Bridge Construction -->
         <div class="property-card-wrap" id="road-bridge-construction">
             <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                <img src="assets/img/property/property11.png" alt="Road & Bridge Construction">
+                <img src="assets/img/property/roads.png" alt="Road & Bridge Construction">
             </div>
             <div class="property-card">
                 <div class="property-card-number">01</div>
@@ -80,13 +80,13 @@
         <!-- Electrification -->
         <div class="property-card-wrap" id="electrification">
             <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                <img src="assets/img/property/property13.png" alt="Electrification">
+                <img src="assets/img/property/solar.png" alt="Electrification">
             </div>
             <div class="property-card">
                 <div class="property-card-number">03</div>
                 <div class="property-card-details">
-                    <h4 class="property-card-subtitle"><a href="service-details">Power & Energy Solutions</a></h4>
-                    <span class="property-card-title ">Electrification</span>
+                    <h4 class="property-card-subtitle"><a href="service-details"> Electrical Infrastructure</a></h4>
+                    <span class="property-card-title ">Solar Energy System Solutions</span>
                     <p class="property-card-text">We provide comprehensive electrification services including power distribution systems, electrical infrastructure, and energy solutions. Our expertise covers industrial electrification, residential power systems, and sustainable energy integration for modern infrastructure.</p>
                     <div class="property-btn-wrap">
                         <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
@@ -98,7 +98,7 @@
         <!-- Water Resources -->
         <div class="property-card-wrap" id="water-resources">
             <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                <img src="assets/img/property/property1-4.png" alt="Water Resources">
+                <img src="assets/img/property/water.png" alt="Water Resources">
             </div>
             <div class="property-card">
                 <div class="property-card-number">04</div>
@@ -116,7 +116,7 @@
         <!-- Facility Management -->
         <div class="property-card-wrap" id="facility-management">
             <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                <img src="assets/img/property/property15.png" alt="Facility Management">
+                <img src="assets/img/property/facility.png" alt="Facility Management">
             </div>
             <div class="property-card">
                 <div class="property-card-number">05</div>
@@ -134,7 +134,7 @@
         <!-- Commissioning -->
         <div class="property-card-wrap" id="commissioning">
             <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                <img src="assets/img/property/property16.png" alt="Commissioning">
+                <img src="assets/img/property/commissioning.png" alt="Commissioning">
             </div>
             <div class="property-card">
                 <div class="property-card-number">06</div>
@@ -152,7 +152,7 @@
         <!-- Procurement -->
         <div class="property-card-wrap" id="procurement">
             <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                <img src="assets/img/property/property17.png" alt="Procurement">
+                <img src="assets/img/property/procurement.png" alt="Procurement">
             </div>
             <div class="property-card">
                 <div class="property-card-number">07</div>

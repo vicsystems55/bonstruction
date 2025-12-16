@@ -189,7 +189,7 @@
             <div class="col-lg-8">
                 <div class="title-area">
                     <span class="shadow-title">Services</span>
-                    <h2 class="sec-title text-white">Our Services</h2>
+                    <h2 class="sec-title text-white">Our Core Competencies</h2>
                     <p class="sec-text text-white">Comprehensive construction engineering solutions tailored to your needs</p>
                 </div>
             </div>

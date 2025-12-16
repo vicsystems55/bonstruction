@@ -43,6 +43,10 @@
                                             <a href="/csr">
                                                 CSR</a>
                                         </li>
+                                         <li>
+                                            <a href="/csr">
+                                                Research & Development</a>
+                                        </li>
                                         <li>
                                             <a href="/careers">
                                                 Careers</a>
@@ -73,12 +77,17 @@
                                         </li>
                                         <li>
                                             <a href="/services#water-resources">
-                                                Water Resources
+                                                Water Engineering
                                             </a>
                                         </li>
                                          <li>
                                             <a href="#">
-                                                Minerals Exploration
+                                                Rare Earth Minerals Mining
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Steel & Metal Fabrication
                                             </a>
                                         </li>
                                         <li>

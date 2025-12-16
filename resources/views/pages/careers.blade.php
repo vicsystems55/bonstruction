@@ -60,7 +60,7 @@
                                 <h2 class="sec-title">
                                     Explore Opportunities Available with Bonstruction</h2>
                                 <div class="btn-wrap mt-4 justify-content-center">
-                                    <a href="contact.html" class="th-btn mb-0 style4 th-btn-icon">
+                                    <a href="/contact" class="th-btn mb-0 style4 th-btn-icon">
                                         Get In Touch</a>
                                 </div>
                             </div>

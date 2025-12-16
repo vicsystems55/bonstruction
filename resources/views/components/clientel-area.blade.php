@@ -49,6 +49,23 @@
                                 </a>
                             </div>
 
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-17.png" alt="Image">
+                                </a>
+                            </div>
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-20.png" alt="Image">
+                                </a>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-22.png" alt="Image">
+                                </a>
+                            </div>
+
 
                         </div>
                     </div>
@@ -94,6 +111,36 @@
                             <div class="swiper-slide">
                                 <a href="#" class="client-card">
                                     <img src="assets/img/brand/brand-15.png" alt="Image">
+                                </a>
+                            </div>
+
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-16.png" alt="Image">
+                                </a>
+                            </div>
+
+                              <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-19.png" alt="Image">
+                                </a>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-21.png" alt="Image">
+                                </a>
+                            </div>
+
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-23.png" alt="Image">
+                                </a>
+                            </div>
+
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-24.png" alt="Image">
                                 </a>
                             </div>
 
