@@ -110,4 +110,40 @@
                 </div>
             </div>
         </div>
+
+    <!-- Cookie consent popup -->
+    <div id="cookie-consent" class="cookie-consent" role="dialog" aria-live="polite" aria-label="cookie consent">
+        <div class="cookie-content">
+            <div class="cookie-text">
+                <p>We use cookies to enhance your experience on our site. <br> By continuing, you agree to our use of cookies. <a href="/privacy-policy" class="underline">Learn more</a></p>
+            </div>
+            <div class="cookie-actions" style="display:flex;gap:8px;align-items:center">
+                <button id="cookie-accept" class="th-btn ">Allow cookies</button>
+                <button id="cookie-reject" class="th-btn ">Reject</button>
+                <button id="cookie-close" class="th-btn btn-secondary">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        (function(){
+            const key = 'cookieConsent';
+            const banner = document.getElementById('cookie-consent');
+            const accept = document.getElementById('cookie-accept');
+            const reject = document.getElementById('cookie-reject');
+            const closeBtn = document.getElementById('cookie-close');
+
+            function show(){ if(!banner) return; banner.classList.add('show'); }
+            function hide(){ if(!banner) return; banner.classList.remove('show'); }
+
+            document.addEventListener('DOMContentLoaded', function(){
+                if(!localStorage.getItem(key)) show();
+            });
+
+            if(accept){ accept.addEventListener('click', function(){ localStorage.setItem(key,'accepted'); hide(); /* fire analytics here */ }); }
+            if(reject){ reject.addEventListener('click', function(){ localStorage.setItem(key,'rejected'); hide(); }); }
+            if(closeBtn){ closeBtn.addEventListener('click', function(){ hide(); }); }
+        })();
+    </script>
+
     </footer>
