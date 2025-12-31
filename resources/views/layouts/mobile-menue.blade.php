@@ -158,6 +158,10 @@
                     <a href="/projects">
                         Projects</a>
                     <ul class="sub-menu">
+                           <li>
+                            <a href="/projects#completed-projects">
+                                Completed Projects</a>
+                        </li>
                         <li>
                             <a href="/projects#new-projects">
                                 New Projects</a>
@@ -166,10 +170,7 @@
                             <a href="/projects#on-going-projects">
                                 Ongoing Projects</a>
                         </li>
-                        <li>
-                            <a href="/projects#completed-projects">
-                                Completed Projects</a>
-                        </li>
+
 
 
 
