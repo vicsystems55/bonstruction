@@ -386,8 +386,8 @@
                             </span> Our Projects</span>
                         <h2 class="sec-title text-whit">
                             Ongoing Projects</h2>
-                        <p class="sec-text text-whit">
-                            CONSTRUCTION OF WAREHOUSE CHAD BASIN RBDA 2025/266</p>
+                        {{-- <p class="sec-text text-whit">
+                            CONSTRUCTION OF WAREHOUSE CHAD BASIN RBDA 2025/266</p> --}}
                     </div>
                 </div>
                 <div class="col-auto">
