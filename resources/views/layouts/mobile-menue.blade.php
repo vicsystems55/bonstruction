@@ -65,7 +65,7 @@
                         </li>
                         <li>
                             <a href="/services#electrification">
-                                Electrification
+                                Solar Energy System
                             </a>
                         </li>
                         <li>

@@ -267,7 +267,7 @@
                                     data-bs-target="#portfolioModal">
                                     <img src="assets/img/project/new1.png" alt="project image">
                                     <div class="portfolio-card-shape d-none">
-                                        <img src="assets/img/project/project_shape1_1.png" alt="img">
+                                        <img src="assets/img/project/new3.png" alt="img">
                                     </div>
                                 </div>
                                 <div class="portfolio-content ">
@@ -321,24 +321,24 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="swiper-slide">
                             <div class="portfolio-card style1">
                                 <div class="portfolio-img img-shine" data-bs-toggle="modal"
                                     data-bs-target="#portfolioModal">
-                                    <img src="assets/img/project/project_2_2.png" alt="project image">
+                                    <img src="assets/img/project/new1.png" alt="project image">
                                     {{-- <div class="portfolio-card-shape">
                                         <img src="assets/img/project/project_shape1_1.png" alt="img">
                                     </div> --}}
                                 </div>
-                                <div class="portfolio-content d-none">
-                                    <h3 class="portfolio-title">
-                                        <a href="#">
-                                            Dance & Music Theatre</a>
+                                <div class="portfolio-content ">
+                                    <h3 class="portfolio-title ">
+                                        <a class="" href="#">
+                                            2025/26</a>
                                     </h3>
-                                    <p class="portfolio-text">
-                                        Modern architecture is a design approach that emphasizes simplicity,
-                                        functionality, and innovation. It moves away from excessive.</p>
+                                    <p class="portfolio-text ">
+                                        SOLAR POWER INSTALLATION TRAINING FOR ARTISANS IN KATSINA CENTRAL SENATORIAL
+                                        DISTRICT NASRDA </p>
                                 </div>
                             </div>
                         </div>
@@ -346,7 +346,7 @@
                             <div class="portfolio-card style1">
                                 <div class="portfolio-img img-shine" data-bs-toggle="modal"
                                     data-bs-target="#portfolioModal">
-                                    <img src="assets/img/project/project_2_3.png" alt="project image">
+                                    <img src="assets/img/project/new3.png" alt="project image">
                                     {{-- <div class="portfolio-card-shape">
                                         <img src="assets/img/project/project_shape1_1.png" alt="img">
                                     </div> --}}

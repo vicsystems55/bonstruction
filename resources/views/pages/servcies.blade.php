@@ -49,11 +49,11 @@
             <div class="property-card">
                 <div class="property-card-number">01</div>
                 <div class="property-card-details">
-                    <h4 class="property-card-subtitle"><a href="service-details">Infrastructure Connectivity</a></h4>
+                    <h4 class="property-card-subtitle"><a href="/contact">Infrastructure Connectivity</a></h4>
                     <span class="property-card-title ">Road & Bridge Construction</span>
                     <p class="property-card-text">We specialize in comprehensive road construction, bridge development, and transportation infrastructure. Our expertise includes highway construction, bridge engineering, road rehabilitation, and transportation network development to enhance connectivity and economic growth.</p>
                     <div class="property-btn-wrap">
-                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                        <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
                     </div>
                 </div>
             </div>
@@ -67,11 +67,11 @@
             <div class="property-card">
                 <div class="property-card-number">02</div>
                 <div class="property-card-details">
-                    <h4 class="property-card-subtitle"><a href="service-details">Structural Excellence</a></h4>
+                    <h4 class="property-card-subtitle"><a href="/contact">Structural Excellence</a></h4>
                     <span class="property-card-title ">Building Construction</span>
                     <p class="property-card-text">We deliver high-quality residential, commercial, and industrial building construction. Our services include structural design, construction management, and turnkey project delivery, ensuring durable and functional structures that meet modern construction standards.</p>
                     <div class="property-btn-wrap">
-                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                        <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
                     </div>
                 </div>
             </div>
@@ -85,11 +85,11 @@
             <div class="property-card">
                 <div class="property-card-number">03</div>
                 <div class="property-card-details">
-                    <h4 class="property-card-subtitle"><a href="service-details"> Electrical Infrastructure</a></h4>
+                    <h4 class="property-card-subtitle"><a href="/contact"> Power Infrastructure</a></h4>
                     <span class="property-card-title ">Solar Energy System Solutions</span>
                     <p class="property-card-text">We provide comprehensive electrification services including power distribution systems, electrical infrastructure, and energy solutions. Our expertise covers industrial electrification, residential power systems, and sustainable energy integration for modern infrastructure.</p>
                     <div class="property-btn-wrap">
-                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                        <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
                     </div>
                 </div>
             </div>
@@ -103,14 +103,33 @@
             <div class="property-card">
                 <div class="property-card-number">04</div>
                 <div class="property-card-details">
-                    <h4 class="property-card-subtitle"><a href="service-details">Sustainable Water Management</a></h4>
-                    <span class="property-card-title ">Water Resources</span>
+                    <h4 class="property-card-subtitle"><a href="/contact">Sustainable Water Management</a></h4>
+                    <span class="property-card-title ">Water Engineering</span>
                     <p class="property-card-text">We specialize in water resource management including drainage systems, flood control, water supply infrastructure, and sanitation solutions. Our expertise ensures sustainable water management and efficient resource utilization for communities and industries.</p>
                     <div class="property-btn-wrap">
-                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                        <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
                     </div>
                 </div>
             </div>
+        </div>
+
+        <!-- Rare Earth Minerals Mining -->
+        <div class="property-card-wrap" id="rare-earth-minerals-mining">
+             <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
+                <img src="assets/img/property/property13.png" alt="Rare Earth Minerals Mining">
+            </div>
+            <div class="property-card">
+                <div class="property-card-number">05</div>
+                <div class="property-card-details">
+                    <h4 class="property-card-subtitle"><a href="/contact">Strategic Mineral Extraction</a></h4>
+                    <span class="property-card-title ">Rare Earth Minerals Mining</span>
+                    <p class="property-card-text">We provide responsible rare earth minerals extraction and processing, supporting high-tech manufacturing and clean energy supply chains. Our operations emphasize environmental stewardship, regulatory compliance, and community engagement for sustainable mineral development.</p>
+                    <div class="property-btn-wrap">
+                        <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
         <!-- Facility Management -->
@@ -119,13 +138,13 @@
                 <img src="assets/img/property/facility.png" alt="Facility Management">
             </div>
             <div class="property-card">
-                <div class="property-card-number">05</div>
+                <div class="property-card-number">06</div>
                 <div class="property-card-details">
-                    <h4 class="property-card-subtitle"><a href="service-details">Operational Excellence</a></h4>
+                    <h4 class="property-card-subtitle"><a href="/contact">Operational Excellence</a></h4>
                     <span class="property-card-title ">Facility Management</span>
                     <p class="property-card-text">We provide comprehensive facility management services including maintenance, operations, and building management. Our solutions ensure optimal performance, safety, and longevity of infrastructure assets through professional management practices.</p>
                     <div class="property-btn-wrap">
-                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                        <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
                     </div>
                 </div>
             </div>
@@ -137,13 +156,13 @@
                 <img src="assets/img/property/commissioning.png" alt="Commissioning">
             </div>
             <div class="property-card">
-                <div class="property-card-number">06</div>
+                <div class="property-card-number">07</div>
                 <div class="property-card-details">
-                    <h4 class="property-card-subtitle"><a href="service-details">System Verification & Handover</a></h4>
+                    <h4 class="property-card-subtitle"><a href="/contact">System Verification & Handover</a></h4>
                     <span class="property-card-title ">Commissioning</span>
                     <p class="property-card-text">We offer professional commissioning services to ensure all systems operate as designed. Our comprehensive testing, verification, and handover processes guarantee project readiness and operational efficiency from day one.</p>
                     <div class="property-btn-wrap">
-                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                        <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
                     </div>
                 </div>
             </div>
@@ -155,13 +174,13 @@
                 <img src="assets/img/property/procurement.png" alt="Procurement">
             </div>
             <div class="property-card">
-                <div class="property-card-number">07</div>
+                <div class="property-card-number">08</div>
                 <div class="property-card-details">
-                    <h4 class="property-card-subtitle"><a href="service-details">Strategic Sourcing</a></h4>
+                    <h4 class="property-card-subtitle"><a href="/contact">Strategic Sourcing</a></h4>
                     <span class="property-card-title ">Procurement</span>
                     <p class="property-card-text">We manage comprehensive procurement services including vendor selection, material sourcing, and supply chain management. Our strategic approach ensures quality materials, competitive pricing, and timely delivery for all project requirements.</p>
                     <div class="property-btn-wrap">
-                        <a href="service-details" class="th-btn btn-mask2 th-btn-icon">View Details</a>
+                        <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
                     </div>
                 </div>
             </div>
