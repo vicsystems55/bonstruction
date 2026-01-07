@@ -86,8 +86,8 @@
                 <div class="property-card-number">03</div>
                 <div class="property-card-details">
                     <h4 class="property-card-subtitle"><a href="/contact"> Power Infrastructure</a></h4>
-                    <span class="property-card-title ">Solar Energy System Solutions</span>
-                    <p class="property-card-text">We provide comprehensive electrification services including power distribution systems, electrical infrastructure, and energy solutions. Our expertise covers industrial electrification, residential power systems, and sustainable energy integration for modern infrastructure.</p>
+                    <span class="property-card-title ">Electrification</span>
+                    <p class="property-card-text">We provide comprehensive electrification services including solar energy systems, power distribution systems, electrical infrastructure, and energy solutions. Our expertise covers industrial electrification, residential power systems, and sustainable energy integration for modern infrastructure.</p>
                     <div class="property-btn-wrap">
                         <a href="/contact" class="th-btn btn-mask2 th-btn-icon">More</a>
                     </div>

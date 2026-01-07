@@ -100,8 +100,8 @@
                             <div class="team-card-content">
                                 <div class="media">
                                     <div class="media-left">
-                                        <h3 class="box-title"><a href="team-details">Finance Manager</a></h3><span
-                                            class="team-desig">Finance & Admin</span>
+                                        <h3 class="box-title"><a href="team-details">Wahab Suyiti <i>MBA</i></a></h3><span
+                                            class="team-desig">GCEO</span>
                                     </div>
                                     <div class="media-body"><a class="icon-btn" href="tel:09876543210"><img
                                                 src="assets/img/icon/phone.svg" alt="img"></a></div>

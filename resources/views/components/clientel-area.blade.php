@@ -143,6 +143,11 @@
                                     <img src="assets/img/brand/brand-24.png" alt="Image">
                                 </a>
                             </div>
+                             <div class="swiper-slide">
+                                <a href="#" class="client-card">
+                                    <img src="assets/img/brand/brand-25.png" alt="Image">
+                                </a>
+                            </div>
 
                         </div>
                     </div>

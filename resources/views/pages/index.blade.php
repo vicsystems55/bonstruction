@@ -598,7 +598,7 @@
             </div>
         </div>
     </section>
-    <section class="space bg-black2 d-non" id="blog-sec">
+    <section class="space bg-black2 d-none" id="blog-sec">
         <div class="container">
             <div class="row justify-content-between align-items-center">
                 <div class="col-xl-5 col-lg-7">

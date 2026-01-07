@@ -146,4 +146,44 @@
         })();
     </script>
 
+    <!-- New Year Modal -->
+    <style>
+    /* New Year modal styles */
+    #newYearModal{display:none;position:fixed;inset:0;z-index:9999;font-family:inherit}
+    #newYearModal.show{display:block}
+    #newYearModal .ny-overlay{position:fixed;inset:0;background:rgba(0,0,0,.6)}
+    #newYearModal .ny-content{position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);max-width:90%;max-height:90%;border-radius:8px;overflow:hidden;display:flex;align-items:center;justify-content:center;background:transparent;padding:0}
+    #newYearModal .ny-image{max-width:100%;max-height:100%;display:block}
+    #newYearModal .ny-close{position:absolute;top:8px;right:8px;z-index:10001;background:rgba(255,255,255,.95);border:none;padding:6px 10px;border-radius:6px;cursor:pointer;font-weight:600}
+    @media (max-width:480px){ #newYearModal .ny-close{top:6px;right:6px;padding:5px 8px} }
+    </style>
+
+    <div id="newYearModal" class="" aria-hidden="true" role="dialog" aria-label="New Year Message">
+        <div class="ny-overlay" id="nyOverlay"></div>
+        <div class="ny-content" role="document">
+            <button id="nyClose" class="ny-close" aria-label="Close">Cancel</button>
+            <img src="/assets/img/newyear.jpg" alt="Happy New Year" class="ny-image">
+        </div>
+    </div>
+
+    <script>
+        (function(){
+            var modal = document.getElementById('newYearModal');
+            var overlay = document.getElementById('nyOverlay');
+            var close = document.getElementById('nyClose');
+
+            function show(){ if(!modal) return; modal.classList.add('show'); modal.setAttribute('aria-hidden','false'); }
+            function hide(){ if(!modal) return; modal.classList.remove('show'); modal.setAttribute('aria-hidden','true'); }
+
+            document.addEventListener('DOMContentLoaded', function(){
+                // show modal after a tiny delay so it's noticeable
+                setTimeout(show, 250);
+            });
+
+            if(overlay) overlay.addEventListener('click', hide);
+            if(close) close.addEventListener('click', hide);
+            document.addEventListener('keydown', function(e){ if(e.key === 'Escape') hide(); });
+        })();
+    </script>
+
     </footer>
