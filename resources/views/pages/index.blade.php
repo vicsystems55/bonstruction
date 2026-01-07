@@ -26,7 +26,7 @@
                                 </div>
                                 <div class="col-lg-3">
                                     <div class="hero-video-wrap text-center" data-ani="slideinright" data-ani-delay="0.4s">
-                                        <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+                                        <a href="https://www.youtube.com"
                                             class="play-btn style2 popup-video"><i
                                                 class="fa-sharp fa-solid fa-play"></i></a></div>
                                 </div>
@@ -55,7 +55,7 @@
                                 </div>
                                 <div class="col-lg-3">
                                     <div class="hero-video-wrap text-center" data-ani="slideinright" data-ani-delay="0.4s">
-                                        <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+                                        <a href="https://www.youtube.com"
                                             class="play-btn style2 popup-video"><i
                                                 class="fa-sharp fa-solid fa-play"></i></a></div>
                                 </div>
@@ -84,7 +84,7 @@
                                 </div>
                                 <div class="col-lg-3">
                                     <div class="hero-video-wrap text-center" data-ani="slideinright" data-ani-delay="0.4s">
-                                        <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+                                        <a href="https://www.youtube.com"
                                             class="play-btn style2 popup-video"><i
                                                 class="fa-sharp fa-solid fa-play"></i></a></div>
                                 </div>
@@ -532,7 +532,7 @@
             <div class="video-wrap1">
                 <div class="video-box1" data-overlay="black2" data-opacity="3"
                     data-mask-src="assets/img/shape/video_1_1_mask.png"><img src="assets/img/normal/video_1_1.png"
-                        alt="img"> <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+                        alt="img"> <a href="https://www.youtube.com"
                         class="play-btn style3 popup-video"><i class="fa-sharp fa-solid fa-play"></i></a></div>
                @include('components.why-choose-us')
             </div>
