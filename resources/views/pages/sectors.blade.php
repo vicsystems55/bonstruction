@@ -61,7 +61,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_1.png" alt="Infrastructure Project">
+                            <img src="assets/img/project/road.png" alt="Infrastructure Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
@@ -80,7 +80,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_2.png" alt="Housing Project">
+                            <img src="assets/img/project/building.png" alt="Housing Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
@@ -99,7 +99,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_3.png" alt="Energy Project">
+                            <img src="assets/img/project/renewable.png" alt="Energy Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
@@ -118,7 +118,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_4.png" alt="Power Project">
+                            <img src="assets/img/project/electrification.png" alt="Power Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
@@ -137,7 +137,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_5.png" alt="Oil & Gas Project">
+                            <img src="assets/img/project/oil.png" alt="Oil & Gas Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
@@ -156,7 +156,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_6.png" alt="Water Resources Project">
+                            <img src="assets/img/project/water.png" alt="Water Resources Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
@@ -175,7 +175,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_7.png" alt="Defense Project">
+                            <img src="assets/img/project/miltary.png" alt="Defense Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
@@ -194,7 +194,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_8.png" alt="Transport Project">
+                            <img src="assets/img/project/transport.png" alt="Transport Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
@@ -213,7 +213,7 @@
                 <div class="swiper-slide">
                     <div class="portfolio-card style4">
                         <div class="portfolio-img">
-                            <img src="assets/img/project/project_4_9.png" alt="Mining Project">
+                            <img src="assets/img/project/mining.png" alt="Mining Project">
                         </div>
                         <div class="portfolio-content">
                             <h3 class="portfolio-title">
