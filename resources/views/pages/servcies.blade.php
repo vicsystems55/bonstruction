@@ -116,7 +116,7 @@
         <!-- Rare Earth Minerals Mining -->
         <div class="property-card-wrap" id="rare-earth-minerals-mining">
              <div class="property-thumb img-shine" data-mask-src="assets/img/shape/property-card1-img-mask.png">
-                <img src="assets/img/property/property13.png" alt="Rare Earth Minerals Mining">
+                <img src="assets/img/property/rare.png" alt="Rare Earth Minerals Mining">
             </div>
             <div class="property-card">
                 <div class="property-card-number">05</div>
