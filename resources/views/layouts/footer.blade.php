@@ -129,7 +129,7 @@
         <div class="ny-overlay" id="nyOverlay"></div>
         <div class="ny-content" role="document">
             <button id="nyClose" class="ny-close" aria-label="Close">Cancel</button>
-            <img src="/assets/img/mobilenewyear.jpg" alt="Happy New Year" class="ny-image">
+            <img src="/assets/img/newyear.jpg" alt="Happy New Year" class="ny-image">
         </div>
     </div>
 </footer>
